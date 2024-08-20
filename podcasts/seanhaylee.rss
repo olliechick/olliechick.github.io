@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" version="2.0"
+     xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
+    <channel>
+        <language>en-US</language>
+        <title>[Archive] The Edge Nights Catchup Podcast</title>
+        <itunes:subtitle>All the best bits every week with podcast exclusive content and some extra fun stuff when it
+            comes up. [archive]
+        </itunes:subtitle>
+        <link>http://www.theedge.co.nz/home/shows/the-edge-30.html</link>
+        <description>All the best bits every week with podcast exclusive content and some extra fun stuff when it comes
+            up. [archive]
+        </description>
+        <itunes:type>episodic</itunes:type>
+        <itunes:summary>All the best bits every week with podcast exclusive content and some extra fun stuff when it
+            comes up. [archive]
+        </itunes:summary>
+        <itunes:owner>
+            <itunes:name>MediaWorks NZ</itunes:name>
+            <itunes:email>podcasts@mediaworks.co.nz</itunes:email>
+        </itunes:owner>
+        <itunes:author>The Edge</itunes:author>
+        <copyright>2019 The Edge</copyright>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:category text="Comedy"></itunes:category>
+        <itunes:category text="Music"></itunes:category>
+        <itunes:image href="https://olliechick.co.nz/podcasts/seanhaylee.jpg"/>
+        <image>
+            <url>https://olliechick.co.nz/podcasts/seanhaylee.jpg</url>
+            <title>The Edge Nights Catchup Podcast [archive]</title>
+            <link>http://www.theedge.co.nz/home/shows/the-edge-30.html</link>
+        </image>
+
+        <!-- view-source:https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/podcast.rss -->
+
+        <!-- 2019 -->
+
+        <item>
+            <title>The Edge Nights Catchup #33 - 30 August 2019</title>
+            <itunes:title>The Edge Nights Catchup #33 - 30 August 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we chat to a listener whose mate legit had the plot of Taken happen to them, how expired is "too expired" and we talk to Charlie Puth!!</p>]]></description>
+            <itunes:summary>On this week's podcast we chat to a listener whose mate legit had the plot of Taken happen
+                to them, how expired is "too expired" and we talk to Charlie Puth!!
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9b3b5f9d-e444-4e7c-a728-aab9008685f6/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1567159889"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-33-30-august-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">9b3b5f9d-e444-4e7c-a728-aab9008685f6</guid>
+            <omny:clipId>9b3b5f9d-e444-4e7c-a728-aab9008685f6</omny:clipId>
+            <pubDate>Fri, 30 Aug 2019 10:09:47 +0000</pubDate>
+            <itunes:duration>1511</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9b3b5f9d-e444-4e7c-a728-aab9008685f6/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1567159889"
+                    length="24218581" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-33-30-august-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #32 - 23 August 2019</title>
+            <itunes:title>The Edge Nights Catchup #32 - 23 August 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we launch a new game that may or may not get us fired, we ask you what's better than sex and who TF puts their tomato sauce in the fridge???&nbsp;&nbsp;</p>]]></description>
+            <itunes:summary>On this week's podcast we launch a new game that may or may not get us fired, we ask you
+                what's better than sex and who TF puts their tomato sauce in the fridge???
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/40bb584a-5a9d-4978-94f0-aab100b54dce/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1566542062"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-32-23-august-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">40bb584a-5a9d-4978-94f0-aab100b54dce</guid>
+            <omny:clipId>40bb584a-5a9d-4978-94f0-aab100b54dce</omny:clipId>
+            <pubDate>Fri, 23 Aug 2019 06:32:09 +0000</pubDate>
+            <itunes:duration>2169</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/40bb584a-5a9d-4978-94f0-aab100b54dce/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1566542062"
+                    length="34745719" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-32-23-august-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #31 - 16 August 2019</title>
+            <itunes:title>The Edge Nights Catchup #31 - 16 August 2019</itunes:title>
+            <description>
+                <![CDATA[<p>This week we found out the answers to a few big questions... Like what happens when you try and wash your hair with garlic oil? How much money can you make from donating sperm? Can Haylee really tell if you're ginger just by your voice? And wtf is Sean doing PROPOSING to Haylee's mum?&nbsp;</p>]]></description>
+            <itunes:summary>This week we found out the answers to a few big questions... Like what happens when you try
+                and wash your hair with garlic oil? How much money can you make from donating sperm? Can Haylee really
+                tell if you're ginger just by your voice? And wtf is Sean doing PROPOSING to Haylee's mum?
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c604e62c-3219-4eda-bc12-aaac0035a71d/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1566012158"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-31-16-august-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">c604e62c-3219-4eda-bc12-aaac0035a71d</guid>
+            <omny:clipId>c604e62c-3219-4eda-bc12-aaac0035a71d</omny:clipId>
+            <pubDate>Sat, 17 Aug 2019 03:20:36 +0000</pubDate>
+            <itunes:duration>2129</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c604e62c-3219-4eda-bc12-aaac0035a71d/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1566012158"
+                    length="34110839" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-31-16-august-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #30 - 9 August 2019</title>
+            <itunes:title>The Edge Nights Catchup #30 - 9 August 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we test out Haylee's 'super power', call out your shitty flatmates and have you ever got with your mate's mum??</p>]]></description>
+            <itunes:summary>On this week's podcast we test out Haylee's 'super power', call out your shitty flatmates
+                and have you ever got with your mate's mum??
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/d3a05c3e-1f8e-40b2-9f4d-aaa3009ab2b6/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1565314930"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-30-9-august-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">d3a05c3e-1f8e-40b2-9f4d-aaa3009ab2b6</guid>
+            <omny:clipId>d3a05c3e-1f8e-40b2-9f4d-aaa3009ab2b6</omny:clipId>
+            <pubDate>Fri, 09 Aug 2019 01:40:33 +0000</pubDate>
+            <itunes:duration>1672</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/d3a05c3e-1f8e-40b2-9f4d-aaa3009ab2b6/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1565314930"
+                    length="26807836" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-30-9-august-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #29 - 18 July 2019</title>
+            <itunes:title>The Edge Nights Catchup #29 - 18 July 2019</itunes:title>
+            <description>
+                <![CDATA[<p>Singer Robinson joins us live in studio and you won't believe what stories Chang &amp; Sean had from yesterday.</p>]]></description>
+            <itunes:summary>Singer Robinson joins us live in studio and you won't believe what stories Chang &amp; Sean
+                had from yesterday.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9d1de027-e066-437f-947b-aa8d0159aac5/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1563397301"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-29-18-july-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">9d1de027-e066-437f-947b-aa8d0159aac5</guid>
+            <omny:clipId>9d1de027-e066-437f-947b-aa8d0159aac5</omny:clipId>
+            <pubDate>Wed, 17 Jul 2019 21:00:48 +0000</pubDate>
+            <itunes:duration>1713</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9d1de027-e066-437f-947b-aa8d0159aac5/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1563397301"
+                    length="27461100" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-29-18-july-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #28 17 July 2019</title>
+            <itunes:title>The Edge Nights Catchup #28 17 July 2019</itunes:title>
+            <description><![CDATA[<p>Sean &amp; Haylee caught up with the one and only Katy Perry!</p>]]></description>
+            <itunes:summary>Sean &amp; Haylee caught up with the one and only Katy Perry!</itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5270c9da-94ea-4493-a50d-aa8c015ae0fe/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1563311145"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-28-17-july-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">5270c9da-94ea-4493-a50d-aa8c015ae0fe</guid>
+            <omny:clipId>5270c9da-94ea-4493-a50d-aa8c015ae0fe</omny:clipId>
+            <pubDate>Tue, 16 Jul 2019 21:05:03 +0000</pubDate>
+            <itunes:duration>1612</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5270c9da-94ea-4493-a50d-aa8c015ae0fe/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1563311145"
+                    length="25844434" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-28-17-july-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #27 16 July 2019</title>
+            <itunes:title>The Edge Nights Catchup #27 16 July 2019</itunes:title>
+            <description>
+                <![CDATA[<p>We discuss the male contraception pill, Sean calls The Warehouse and tries to sell their his remix version of their jingle and actress Kim Crossman joins us live in studio.</p>]]></description>
+            <itunes:summary>We discuss the male contraception pill, Sean calls The Warehouse and tries to sell their his
+                remix version of their jingle and actress Kim Crossman joins us live in studio.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/775bc42a-a9c7-492c-bb0b-aa8b0159ac43/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1563224479"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-27-16-july-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">775bc42a-a9c7-492c-bb0b-aa8b0159ac43</guid>
+            <omny:clipId>775bc42a-a9c7-492c-bb0b-aa8b0159ac43</omny:clipId>
+            <pubDate>Mon, 15 Jul 2019 21:00:13 +0000</pubDate>
+            <itunes:duration>1780</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/775bc42a-a9c7-492c-bb0b-aa8b0159ac43/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1563224479"
+                    length="28521463" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-27-16-july-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #26 15 July 2019</title>
+            <itunes:title>The Edge Nights Catchup #26 15 July 2019</itunes:title>
+            <description>
+                <![CDATA[<p>An intense ending to this morning's Cricket World Cup Final, you won't beleive what TV show Sean has seen 8 times and Haylee got a Tinder match over the weekend.</p>]]></description>
+            <itunes:summary>An intense ending to this morning's Cricket World Cup Final, you won't beleive what TV show
+                Sean has seen 8 times and Haylee got a Tinder match over the weekend.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/cccda203-b8ab-41be-9cc1-aa8a016a0f45/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1563141616"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-26-15-july-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">cccda203-b8ab-41be-9cc1-aa8a016a0f45</guid>
+            <omny:clipId>cccda203-b8ab-41be-9cc1-aa8a016a0f45</omny:clipId>
+            <pubDate>Sun, 14 Jul 2019 21:59:38 +0000</pubDate>
+            <itunes:duration>1802</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/cccda203-b8ab-41be-9cc1-aa8a016a0f45/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1563141616"
+                    length="28879236" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-26-15-july-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #25 12 July 2019</title>
+            <itunes:title>The Edge Nights Catchup #25 12 July 2019</itunes:title>
+            <description>
+                <![CDATA[<p>We have news girl Mel in studio to find out why she isn't spooning her husband, DJ Sean Hill remixes The Warehouse jingle and we talk about the strangest thing you have seen on a community notice board.</p>]]></description>
+            <itunes:summary>We have news girl Mel in studio to find out why she isn't spooning her husband, DJ Sean Hill
+                remixes The Warehouse jingle and we talk about the strangest thing you have seen on a community notice
+                board.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/0f383326-9d97-4216-a74e-aa87015eb8ff/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562880017"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-25-12-july-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">0f383326-9d97-4216-a74e-aa87015eb8ff</guid>
+            <omny:clipId>0f383326-9d97-4216-a74e-aa87015eb8ff</omny:clipId>
+            <pubDate>Thu, 11 Jul 2019 21:19:45 +0000</pubDate>
+            <itunes:duration>1471</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/0f383326-9d97-4216-a74e-aa87015eb8ff/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562880017"
+                    length="23577424" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-25-12-july-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #24 11 July 2019</title>
+            <itunes:title>The Edge Nights Catchup #24 11 July 2019</itunes:title>
+            <description>
+                <![CDATA[<p>We talk about Lime scooter injuries, dating age gaps since Sean is seeing a cougar, comedian Urzila Carlson joins us in studio and The Bachelorette NZ is coming soon.</p>]]></description>
+            <itunes:summary>We talk about Lime scooter injuries, dating age gaps since Sean is seeing a cougar, comedian
+                Urzila Carlson joins us in studio and The Bachelorette NZ is coming soon.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/429ddfcd-427b-4ca2-8a33-aa86015d3923/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562793298"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-24-11-july-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">429ddfcd-427b-4ca2-8a33-aa86015d3923</guid>
+            <omny:clipId>429ddfcd-427b-4ca2-8a33-aa86015d3923</omny:clipId>
+            <pubDate>Wed, 10 Jul 2019 21:13:39 +0000</pubDate>
+            <itunes:duration>1618</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/429ddfcd-427b-4ca2-8a33-aa86015d3923/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562793298"
+                    length="25932206" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-24-11-july-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #23 10 July 2019</title>
+            <itunes:title>The Edge Nights Catchup #23 10 July 2019</itunes:title>
+            <description>
+                <![CDATA[<p>Every caller on air this morning wins EGGS and we have the boys from Why Don't We join us on the phone.</p>]]></description>
+            <itunes:summary>Every caller on air this morning wins EGGS and we have the boys from Why Don't We join us on
+                the phone.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1187be3e-678a-4397-a77d-aa850160b5dd/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562707544"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-23-10-july-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1187be3e-678a-4397-a77d-aa850160b5dd</guid>
+            <omny:clipId>1187be3e-678a-4397-a77d-aa850160b5dd</omny:clipId>
+            <pubDate>Tue, 09 Jul 2019 21:25:26 +0000</pubDate>
+            <itunes:duration>696</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1187be3e-678a-4397-a77d-aa850160b5dd/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562707544"
+                    length="11187024" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-23-10-july-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #22 9 July 2019</title>
+            <itunes:title>The Edge Nights Catchup #22 9 July 2019</itunes:title>
+            <description>
+                <![CDATA[<p>We have Genera; Fiyaahhh and the boys from Sachi join us live in studio plus we catch up with Dom who's in Turkey.&nbsp;</p>]]></description>
+            <itunes:summary>We have Genera; Fiyaahhh and the boys from Sachi join us live in studio plus we catch up
+                with Dom who's in Turkey.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/fde82779-823e-4571-afde-aa840162404f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562621551"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-22-9/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">fde82779-823e-4571-afde-aa840162404f</guid>
+            <omny:clipId>fde82779-823e-4571-afde-aa840162404f</omny:clipId>
+            <pubDate>Mon, 08 Jul 2019 21:31:50 +0000</pubDate>
+            <itunes:duration>1850</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/fde82779-823e-4571-afde-aa840162404f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562621551"
+                    length="29649097" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-22-9</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #21 8 July 2019</title>
+            <itunes:title>The Edge Nights Catchup #21 8 July 2019</itunes:title>
+            <description>
+                <![CDATA[<p>Haylee flew to Sydney to catch up with the girls from Little Mix</p>]]></description>
+            <itunes:summary>Haylee flew to Sydney to catch up with the girls from Little Mix</itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/954b8062-9a51-4fca-889e-aa8301675cb9/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562536156"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-21-8-july-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">954b8062-9a51-4fca-889e-aa8301675cb9</guid>
+            <omny:clipId>954b8062-9a51-4fca-889e-aa8301675cb9</omny:clipId>
+            <pubDate>Sun, 07 Jul 2019 21:49:04 +0000</pubDate>
+            <itunes:duration>652</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/954b8062-9a51-4fca-889e-aa8301675cb9/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1562536156"
+                    length="10478163" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-21-8-july-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #20 - 7 June 2019</title>
+            <itunes:title>The Edge Nights Catchup #20 - 7 June 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we're chatting epic stitch ups, Haylee's struggling for pick up line inspo and what the heck is 'Choreplay'??</p>]]></description>
+            <itunes:summary>On this week's podcast we're chatting epic stitch ups, Haylee's struggling for pick up line
+                inspo and what the heck is 'Choreplay'??
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5e324ca5-cf3b-4682-b502-aa6e007d0d91/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1560670936"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-20-7-june-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">5e324ca5-cf3b-4682-b502-aa6e007d0d91</guid>
+            <omny:clipId>5e324ca5-cf3b-4682-b502-aa6e007d0d91</omny:clipId>
+            <pubDate>Sun, 16 Jun 2019 07:41:47 +0000</pubDate>
+            <itunes:duration>1108</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5e324ca5-cf3b-4682-b502-aa6e007d0d91/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1560670936"
+                    length="17770719" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-20-7-june-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #19 - 31 May 2019</title>
+            <itunes:title>The Edge Nights Catchup #19 - 31 May 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we're chatting to a guy who got banned from Tinder for FIVE YEARS (How does that even happen?!?!) and one of our listeners did something really out of it at a rest home...</p>]]></description>
+            <itunes:summary>On this week's podcast we're chatting to a guy who got banned from Tinder for FIVE YEARS
+                (How does that even happen?!?!) and one of our listeners did something really out of it at a rest
+                home...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9c965552-e0c7-4735-aa13-aa6200a20683/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1559642200"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-19-31-may-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">9c965552-e0c7-4735-aa13-aa6200a20683</guid>
+            <omny:clipId>9c965552-e0c7-4735-aa13-aa6200a20683</omny:clipId>
+            <pubDate>Tue, 04 Jun 2019 09:56:16 +0000</pubDate>
+            <itunes:duration>1101</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9c965552-e0c7-4735-aa13-aa6200a20683/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1559642200"
+                    length="17664975" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-19-31-may-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #18 - 24 May 2019</title>
+            <itunes:title>The Edge Nights Catchup #18 - 24 May 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we talk about the times you dated your mate's mum (Cause everyone's done that... Right???), Sean puts his body on the line in the name of science and if you're still mad that Game Of Thrones is over, Haylee's got a few things you can do instead!</p>]]></description>
+            <itunes:summary>On this week's podcast we talk about the times you dated your mate's mum (Cause everyone's
+                done that... Right???), Sean puts his body on the line in the name of science and if you're still mad
+                that Game Of Thrones is over, Haylee's got a few things you can do instead!
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/b65c78be-3aa1-4d1f-9147-aa5a00a9f240/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1558952922"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-18-24-may-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">b65c78be-3aa1-4d1f-9147-aa5a00a9f240</guid>
+            <omny:clipId>b65c78be-3aa1-4d1f-9147-aa5a00a9f240</omny:clipId>
+            <pubDate>Mon, 27 May 2019 10:28:13 +0000</pubDate>
+            <itunes:duration>1450</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/b65c78be-3aa1-4d1f-9147-aa5a00a9f240/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1558952922"
+                    length="23254343" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-18-24-may-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #17 - 17 May 2019</title>
+            <itunes:title>The Edge Nights Catchup #17 - 17 May 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we asked for stories about the weirdest things you were asked to send someone online and some of our callers left us SHOOK! We also talk flatties who ruin Game of Thrones plus Sean's managed to drag in Jono &amp; Ben to help teach Haylee an important life lesson...</p>]]></description>
+            <itunes:summary>On this week's podcast we asked for stories about the weirdest things you were asked to send
+                someone online and some of our callers left us SHOOK! We also talk flatties who ruin Game of Thrones
+                plus Sean's managed to drag in Jono &amp; Ben to help teach Haylee an important life lesson...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9a5c1487-e5d2-4f65-86f0-aa5900b08847/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1558868547"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-17-17-may-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">9a5c1487-e5d2-4f65-86f0-aa5900b08847</guid>
+            <omny:clipId>9a5c1487-e5d2-4f65-86f0-aa5900b08847</omny:clipId>
+            <pubDate>Sun, 26 May 2019 11:01:51 +0000</pubDate>
+            <itunes:duration>1903</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9a5c1487-e5d2-4f65-86f0-aa5900b08847/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1558868547"
+                    length="30492562" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-17-17-may-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #16 - 10 May 2019</title>
+            <itunes:title>The Edge Nights Catchup #16 - 10 May 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we're talking Star Signs, being bitten by stuff and one listener was faced with a major issue this week... what do you do when your mum admits she has a FOOT FETISH?!?!</p>]]></description>
+            <itunes:summary>On this week's podcast we're talking Star Signs, being bitten by stuff and one listener was
+                faced with a major issue this week... what do you do when your mum admits she has a FOOT FETISH?!?!
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/b64da5f4-bb7a-4819-950b-aa59008758a1/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1558858888"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-16-10-may-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">b64da5f4-bb7a-4819-950b-aa59008758a1</guid>
+            <omny:clipId>b64da5f4-bb7a-4819-950b-aa59008758a1</omny:clipId>
+            <pubDate>Sun, 26 May 2019 08:20:51 +0000</pubDate>
+            <itunes:duration>1395</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/b64da5f4-bb7a-4819-950b-aa59008758a1/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1558858888"
+                    length="22362000" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-16-10-may-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #15 - 3 May 2019</title>
+            <itunes:title>The Edge Nights Catchup #15 - 3 May 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we catch up with super funny musicians Lewis Capaldi &amp; Ava Max, plus Haylee doesn't want to talk about her first ever Tinder date... but we get her to eventually...&nbsp;</p>]]></description>
+            <itunes:summary>On this week's podcast we catch up with super funny musicians Lewis Capaldi &amp; Ava Max,
+                plus Haylee doesn't want to talk about her first ever Tinder date... but we get her to eventually...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/17239a2d-64aa-4eb8-bcff-aa4b007e6873/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1557647445"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-16-3-may-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">17239a2d-64aa-4eb8-bcff-aa4b007e6873</guid>
+            <omny:clipId>17239a2d-64aa-4eb8-bcff-aa4b007e6873</omny:clipId>
+            <pubDate>Sun, 12 May 2019 07:50:15 +0000</pubDate>
+            <itunes:duration>1713</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/17239a2d-64aa-4eb8-bcff-aa4b007e6873/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1557647445"
+                    length="27461938" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-16-3-may-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #14 - 26 April 2019</title>
+            <itunes:title>The Edge Nights Catchup #14 - 26 April 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we cover A LOT - From Kiwis going above and beyond to help out one another, to questionable love advice, to Sean finally telling a girl he loves her (But did he actually mean to????)</p>]]></description>
+            <itunes:summary>On this week's podcast we cover A LOT - From Kiwis going above and beyond to help out one
+                another, to questionable love advice, to Sean finally telling a girl he loves her (But did he actually
+                mean to????)
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1a2ed1ca-8ed9-4804-8449-aa3d008c15f6/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1556440565"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-14-26-april-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1a2ed1ca-8ed9-4804-8449-aa3d008c15f6</guid>
+            <omny:clipId>1a2ed1ca-8ed9-4804-8449-aa3d008c15f6</omny:clipId>
+            <pubDate>Sun, 28 Apr 2019 08:35:43 +0000</pubDate>
+            <itunes:duration>976</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1a2ed1ca-8ed9-4804-8449-aa3d008c15f6/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1556440565"
+                    length="15656269" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-14-26-april-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #13 - 18 April 2019</title>
+            <itunes:title>The Edge Nights Catchup #13 - 18 April 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we get get listener's love advice for Haylee to help on her FIRST EVER Tinder date and we get grossed out majorly by slugs ewwww</p>]]></description>
+            <itunes:summary>On this week's podcast we get get listener's love advice for Haylee to help on her FIRST
+                EVER Tinder date and we get grossed out majorly by slugs ewwww
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5fd05cfb-6c19-4c5f-a09c-aa3d008aed88/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1556440212"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-13-18-april-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">5fd05cfb-6c19-4c5f-a09c-aa3d008aed88</guid>
+            <omny:clipId>5fd05cfb-6c19-4c5f-a09c-aa3d008aed88</omny:clipId>
+            <pubDate>Sun, 28 Apr 2019 08:29:58 +0000</pubDate>
+            <itunes:duration>710</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5fd05cfb-6c19-4c5f-a09c-aa3d008aed88/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1556440212"
+                    length="11410222" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-13-18-april-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #12 - 12 April 2019</title>
+            <itunes:title>The Edge Nights Catchup #12 - 12 April 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we've got Lauv, Mitch James, disappearing boyfriends, alternate ways to spend your course related costs and Mike McRoberts' tips on getting the perfect bod!!</p>]]></description>
+            <itunes:summary>On this week's podcast we've got Lauv, Mitch James, disappearing boyfriends, alternate ways
+                to spend your course related costs and Mike McRoberts' tips on getting the perfect bod!!
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/131d9fec-8052-44a5-b137-aa3d00616a45/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1556431515"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-12-12-april-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">131d9fec-8052-44a5-b137-aa3d00616a45</guid>
+            <omny:clipId>131d9fec-8052-44a5-b137-aa3d00616a45</omny:clipId>
+            <pubDate>Sun, 28 Apr 2019 06:04:53 +0000</pubDate>
+            <itunes:duration>1134</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/131d9fec-8052-44a5-b137-aa3d00616a45/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1556431515"
+                    length="18199967" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-12-12-april-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #11 - 5 April 2019</title>
+            <itunes:title>The Edge Nights Catchup #11 - 5 April 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we learn something new about The Zoo, Kiwi influencer Simone Anderson dishes out love advice and we hear some amazing listener stories about cats, pranks gone wrong and milk...</p>]]></description>
+            <itunes:summary>On this week's podcast we learn something new about The Zoo, Kiwi influencer Simone Anderson
+                dishes out love advice and we hear some amazing listener stories about cats, pranks gone wrong and
+                milk...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/7ccf7295-d62d-40ad-ab90-aa2800772ee4/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1554621677"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-11-5-april-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">7ccf7295-d62d-40ad-ab90-aa2800772ee4</guid>
+            <pubDate>Sun, 07 Apr 2019 07:20:54 +0000</pubDate>
+            <itunes:duration>00:20:35</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/7ccf7295-d62d-40ad-ab90-aa2800772ee4/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1554621677"
+                    length="19809944" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-11-5-april-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #10 - 29 March 2019</title>
+            <itunes:title>The Edge Nights Catchup #10 - 29 March 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we catch up with the awesome singer Anne-Marie and we have possibly the MOST AWKWARD call of 2019...</p>]]></description>
+            <itunes:summary>On this week's podcast we catch up with the awesome singer Anne-Marie and we have possibly
+                the MOST AWKWARD call of 2019...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1af4d522-d21c-4d32-9321-aa1f00878524/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1553847775"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-10-29-march-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1af4d522-d21c-4d32-9321-aa1f00878524</guid>
+            <pubDate>Fri, 29 Mar 2019 08:22:36 +0000</pubDate>
+            <itunes:duration>00:16:14</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1af4d522-d21c-4d32-9321-aa1f00878524/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1553847775"
+                    length="15629091" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-10-29-march-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #9 - 22 March 2019</title>
+            <itunes:title>The Edge Nights Catchup #9 - 22 March 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we chat to Bebe Rexha and we get some PRICELESS calls when we ask you what's the funniest you've woken up with in your bed...</p>]]></description>
+            <itunes:summary>On this week's podcast we chat to Bebe Rexha and we get some PRICELESS calls when we ask you
+                what's the funniest you've woken up with in your bed...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ac910cf2-63c2-4357-8f9c-aa1a00784598/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1553412393"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-9-22-march-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">ac910cf2-63c2-4357-8f9c-aa1a00784598</guid>
+            <pubDate>Sun, 24 Mar 2019 07:26:05 +0000</pubDate>
+            <itunes:duration>00:22:11</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ac910cf2-63c2-4357-8f9c-aa1a00784598/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1553412393"
+                    length="21343009" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-9-22-march-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #8 - 15 March 2019</title>
+            <itunes:title>The Edge Nights Catchup #8 - 15 March 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast Haylee's been singing a super famous song wrong her entire life and we're joined by some MASSIVE guests!!</p>]]></description>
+            <itunes:summary>On this week's podcast Haylee's been singing a super famous song wrong her entire life and
+                we're joined by some MASSIVE guests!!
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/32f1e352-8125-4e36-8a24-aa1a00678d6f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1553408734"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-8-15-march-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">32f1e352-8125-4e36-8a24-aa1a00678d6f</guid>
+            <pubDate>Sun, 24 Mar 2019 06:25:09 +0000</pubDate>
+            <itunes:duration>00:22:22</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/32f1e352-8125-4e36-8a24-aa1a00678d6f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1553408734"
+                    length="21510193" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-8-15-march-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #7 - 8 March 2019</title>
+            <itunes:title>The Edge Nights Catchup #7 - 8 March 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we find out if a couple of listeners can become best mates by chatting on the radio and we hear some of the super weird things your ex asked you for!</p>]]></description>
+            <itunes:summary>On this week's podcast we find out if a couple of listeners can become best mates by
+                chatting on the radio and we hear some of the super weird things your ex asked you for!
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1d0f5526-d350-4dec-8063-aa0c0081f126/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1552204855"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-7-8-march-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1d0f5526-d350-4dec-8063-aa0c0081f126</guid>
+            <pubDate>Sun, 10 Mar 2019 08:00:15 +0000</pubDate>
+            <itunes:duration>00:20:54</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1d0f5526-d350-4dec-8063-aa0c0081f126/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1552204855"
+                    length="20105286" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-7-8-march-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #6 - 1 March 2019</title>
+            <itunes:title>The Edge Nights Catchup #6 - 1 March 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we have some EPIC guests including Khloe Kardashian (Maybe...), we search for NZ's Sexiest Accent and hear all about how old you've gone...</p>]]></description>
+            <itunes:summary>On this week's podcast we have some EPIC guests including Khloe Kardashian (Maybe...), we
+                search for NZ's Sexiest Accent and hear all about how old you've gone...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9bbe4b7c-ef15-4e0d-9ecd-aa0301400bf7/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1551468914"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-6-1-march-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1552855482&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">9bbe4b7c-ef15-4e0d-9ecd-aa0301400bf7</guid>
+            <pubDate>Fri, 01 Mar 2019 19:34:16 +0000</pubDate>
+            <itunes:duration>00:25:57</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9bbe4b7c-ef15-4e0d-9ecd-aa0301400bf7/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1551468914"
+                    length="24963643" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-6-1-march-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #5 - 22 Feb 2019</title>
+            <itunes:title>The Edge Nights Catchup #5 - 22 Feb 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we crowd source Tinder pickup lines for Haylee, Sean's had an absolute shocker and our fave loose units Peking Duk stop by!!</p>]]></description>
+            <itunes:summary>On this week's podcast we crowd source Tinder pickup lines for Haylee, Sean's had an
+                absolute shocker and our fave loose units Peking Duk stop by!!
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1548032425&amp;size=Large"/>
+            <media:content
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9a0c3e4b-6b60-4f44-9100-a9fe007d9e22/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1550994087"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-5-22-feb-2019/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1548032425&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">9a0c3e4b-6b60-4f44-9100-a9fe007d9e22</guid>
+            <pubDate>Sun, 24 Feb 2019 07:41:04 +0000</pubDate>
+            <itunes:duration>00:22:17</itunes:duration>
+            <enclosure
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9a0c3e4b-6b60-4f44-9100-a9fe007d9e22/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1550994087"
+                    length="21441499" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-5-22-feb-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #4 - 15 Feb 2019</title>
+            <itunes:title>The Edge Nights Catchup #4 - 15 Feb 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast Haylee's had a shocker in the work kitchen, we get the lowdown on the sex lives of Panda's and you tell us your AWFUL pet names...</p>]]></description>
+            <itunes:summary>On this week's podcast Haylee's had a shocker in the work kitchen, we get the lowdown on the
+                sex lives of Panda's and you tell us your AWFUL pet names...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image href="https://olliechick.co.nz/podcasts/seanhaylee.jpg"/>
+            <media:content
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9ed4945f-1248-41f7-89fb-a9f501517e72/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1550263086"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-4-15-feb-2019/embed"/>
+            </media:content>
+            <media:content url="https://olliechick.co.nz/podcasts/seanhaylee.jpg" type="image/jpeg"/>
+            <guid isPermaLink="false">9ed4945f-1248-41f7-89fb-a9f501517e72</guid>
+            <pubDate>Fri, 15 Feb 2019 20:37:07 +0000</pubDate>
+            <itunes:duration>00:22:47</itunes:duration>
+            <enclosure
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9ed4945f-1248-41f7-89fb-a9f501517e72/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1550263086"
+                    length="21919227" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-4-15-feb-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #3 - 8 Feb 2019</title>
+            <itunes:title>The Edge Nights Catchup #3 - 8 Feb 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we catch up with George Ezra, Haylee's got a sweet fact for us, Sean may have found NZ's greatest Uber and we hear from one of the LOOSEST callers in the history of radio...</p>]]></description>
+            <itunes:summary>On this week's podcast we catch up with George Ezra, Haylee's got a sweet fact for us, Sean
+                may have found NZ's greatest Uber and we hear from one of the LOOSEST callers in the history of radio...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image href="https://olliechick.co.nz/podcasts/seanhaylee.jpg"/>
+            <media:content
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/f25e7b2f-5c11-49de-a4cc-a9f0006da3d3/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1549781211"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-3-8-feb-2019/embed"/>
+            </media:content>
+            <media:content url="https://olliechick.co.nz/podcasts/seanhaylee.jpg" type="image/jpeg"/>
+            <guid isPermaLink="false">f25e7b2f-5c11-49de-a4cc-a9f0006da3d3</guid>
+            <pubDate>Sun, 10 Feb 2019 06:46:27 +0000</pubDate>
+            <itunes:duration>00:21:10</itunes:duration>
+            <enclosure
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/f25e7b2f-5c11-49de-a4cc-a9f0006da3d3/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1549781211"
+                    length="20369850" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-3-8-feb-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #2 - 1 Feb 2019</title>
+            <itunes:title>The Edge Nights Catchup #2 - 1 Feb 2019</itunes:title>
+            <description>
+                <![CDATA[<p>On this week's podcast we chat to Georgia and Caleb from Broods, Jono from The Edge Afternoons sticks around to tell a ripper of a story, we hear more more legendary listeners and we have an actual cat on the show... (Yeah, it probably is as weird as it sounds)</p>]]></description>
+            <itunes:summary>On this week's podcast we chat to Georgia and Caleb from Broods, Jono from The Edge
+                Afternoons sticks around to tell a ripper of a story, we hear more more legendary listeners and we have
+                an actual cat on the show... (Yeah, it probably is as weird as it sounds)
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image href="https://olliechick.co.nz/podcasts/seanhaylee.jpg"/>
+            <media:content
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/7dea5a8c-d8f5-4556-8836-a9e700b7861f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1549021049"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-2-1-feb-2019/embed"/>
+            </media:content>
+            <media:content url="https://olliechick.co.nz/podcasts/seanhaylee.jpg" type="image/jpeg"/>
+            <guid isPermaLink="false">7dea5a8c-d8f5-4556-8836-a9e700b7861f</guid>
+            <pubDate>Fri, 01 Feb 2019 11:37:04 +0000</pubDate>
+            <itunes:duration>00:21:46</itunes:duration>
+            <enclosure
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/7dea5a8c-d8f5-4556-8836-a9e700b7861f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1549021049"
+                    length="20938275" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-2-1-feb-2019</link>
+        </item>
+        <item>
+            <title>The Edge Nights Catchup #1 - 25 Jan 2019</title>
+            <itunes:title>The Edge Nights Catchup #1 - 25 Jan 2019</itunes:title>
+            <description><![CDATA[<p>Welcome to our new podcast!! We're Sean &amp; Haylee, the new nightshow hosts, and since you've read this far so you may as well hit play...</p>
+<p>This week we caught up with Mumford &amp; Sons, Peking Duk and awesome Kiwi musician Robinson! Plus we hear from some amazing callers, try to track down Gordon Ramsay, figure out what sex positions match your star sign aaaand Haylee dishes out some questionable love advice...</p>]]></description>
+            <itunes:summary>Welcome to our new podcast!! We're Sean &amp; Haylee, the new nightshow hosts, and since
+                you've read this far so you may as well hit play...
+
+                This week we caught up with Mumford &amp; Sons, Peking Duk and awesome Kiwi musician Robinson! Plus we
+                hear from some amazing callers, try to track down Gordon Ramsay, figure out what sex positions match
+                your star sign aaaand Haylee dishes out some questionable love advice...
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image href="https://olliechick.co.nz/podcasts/seanhaylee.jpg"/>
+            <media:content
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/36fef26b-5871-4dcb-a608-a9e10093c0fa/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1548493840"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-podcast-1-25-jan-2019/embed"/>
+            </media:content>
+            <media:content url="https://olliechick.co.nz/podcasts/seanhaylee.jpg" type="image/jpeg"/>
+            <guid isPermaLink="false">36fef26b-5871-4dcb-a608-a9e10093c0fa</guid>
+            <pubDate>Sat, 26 Jan 2019 09:09:38 +0000</pubDate>
+            <itunes:duration>00:41:24</itunes:duration>
+            <enclosure
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/36fef26b-5871-4dcb-a608-a9e10093c0fa/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1548493840"
+                    length="39796611" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-catchup-podcast-1-25-jan-2019</link>
+        </item>
+
+        <!-- 2020 -->
+
+        <item>
+            <title>Best Of The Edge Nights Podcast #13 - November 9-13</title>
+            <itunes:title>Best Of The Edge Nights Podcast #13 - November 9-13</itunes:title>
+            <description>On the show this week, we try and find the hottest profession, Haylee shares the last of her
+                'wisdom', and Sean had a veeeeery awkward moment with a person from his past!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, we try and find the hottest profession, Haylee shares the last of her 'wisdom', and Sean had a veeeeery awkward moment with a person from his past!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, we try and find the hottest profession, Haylee shares the last of her
+                'wisdom', and Sean had a veeeeery awkward moment with a person from his past!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>13</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/d9093bc6-5ff0-489f-bb70-ac71014f8957/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1605212741"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-13-november-9-13/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">d9093bc6-5ff0-489f-bb70-ac71014f8957</guid>
+            <omny:clipId>d9093bc6-5ff0-489f-bb70-ac71014f8957</omny:clipId>
+            <pubDate>Thu, 12 Nov 2020 20:25:00 +0000</pubDate>
+            <itunes:duration>937</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/d9093bc6-5ff0-489f-bb70-ac71014f8957/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1605212741"
+                    length="15042688" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-13-november-9-13</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #12 - November 2-6</title>
+            <itunes:title>Best Of The Edge Nights Podcast #12 - November 2-6</itunes:title>
+            <description>On the show this week, we try to guess your job based on your name, we ask what you've bought
+                as an "embarrassment purchase" and the Hot Teacher Hotline is back!!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, we try to guess your job based on your name, we ask what you've bought as an "embarrassment purchase" and the Hot Teacher Hotline is back!!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, we try to guess your job based on your name, we ask what you've
+                bought as an "embarrassment purchase" and the Hot Teacher Hotline is back!!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>12</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/4daf2467-6ce2-4de9-a5b8-ac6e00457816/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1604895924"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-12-november-2-6/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">4daf2467-6ce2-4de9-a5b8-ac6e00457816</guid>
+            <omny:clipId>4daf2467-6ce2-4de9-a5b8-ac6e00457816</omny:clipId>
+            <pubDate>Mon, 09 Nov 2020 04:19:21 +0000</pubDate>
+            <itunes:duration>1404</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/4daf2467-6ce2-4de9-a5b8-ac6e00457816/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1604895924"
+                    length="22514235" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-12-november-2-6</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #11 - October 27-30</title>
+            <itunes:title>Best Of The Edge Nights Podcast #11 - October 27-30</itunes:title>
+            <description>A 'hot' show all week! We open the phones for 'Hot Teacher Hotline'. Hot Cait from the office
+                has another dating dilemma, and our hot-haired Haylee gives you your ranga readings
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>A 'hot' show all week! We open the phones for 'Hot Teacher Hotline'. Hot Cait from the office has another dating dilemma, and our hot-haired Haylee gives you your ranga readings</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>A 'hot' show all week! We open the phones for 'Hot Teacher Hotline'. Hot Cait from the
+                office has another dating dilemma, and our hot-haired Haylee gives you your ranga readings
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>11</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1b507594-a59f-4508-81b4-ac63016354ce/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1604007588"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-11-october-27-30/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1b507594-a59f-4508-81b4-ac63016354ce</guid>
+            <omny:clipId>1b507594-a59f-4508-81b4-ac63016354ce</omny:clipId>
+            <pubDate>Thu, 29 Oct 2020 21:39:48 +0000</pubDate>
+            <itunes:duration>1025</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1b507594-a59f-4508-81b4-ac63016354ce/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1604007588"
+                    length="16444523" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-11-october-27-30</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #10 - October 19-23</title>
+            <itunes:title>Best Of The Edge Nights Podcast #10 - October 19-23</itunes:title>
+            <description>On the show this week, Sean asks you what his new DJ name should be, we give away everything
+                from Dom Harvey's locker, and Kings drops a sick freestyle for us!!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, Sean asks you what his new DJ name should be, we give away everything from Dom Harvey's locker, and Kings drops a sick freestyle for us!!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, Sean asks you what his new DJ name should be, we give away everything
+                from Dom Harvey's locker, and Kings drops a sick freestyle for us!!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>10</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/934a170e-4386-4da3-b6ac-ac5c012f463f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603391610"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-10-october-19-23/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">934a170e-4386-4da3-b6ac-ac5c012f463f</guid>
+            <omny:clipId>934a170e-4386-4da3-b6ac-ac5c012f463f</omny:clipId>
+            <pubDate>Thu, 22 Oct 2020 18:33:30 +0000</pubDate>
+            <itunes:duration>1246</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/934a170e-4386-4da3-b6ac-ac5c012f463f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603391610"
+                    length="19980039" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-10-october-19-23</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #9- September 28 - October 2</title>
+            <itunes:title>Best Of The Edge Nights Podcast #9- September 28 - October 2</itunes:title>
+            <description>On the show this week, we get multiple celebrity endorsements for our upcoming album, and
+                Haylee challenges Sean to do some guerilla marketing for the show during a DJ gig with the big bosses
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, we get multiple celebrity endorsements for our upcoming album, and Haylee challenges Sean to do some guerilla marketing for the show during a DJ gig with the big bosses</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, we get multiple celebrity endorsements for our upcoming album, and
+                Haylee challenges Sean to do some guerilla marketing for the show during a DJ gig with the big bosses
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1101b9b5-690c-41ad-932c-ac47013b15c3/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603332707"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-9-september-28-oct/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1101b9b5-690c-41ad-932c-ac47013b15c3</guid>
+            <omny:clipId>1101b9b5-690c-41ad-932c-ac47013b15c3</omny:clipId>
+            <pubDate>Thu, 01 Oct 2020 19:20:00 +0000</pubDate>
+            <itunes:duration>1200</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1101b9b5-690c-41ad-932c-ac47013b15c3/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603332707"
+                    length="19250710" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-9-september-28-oct</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #8 - September 21-25</title>
+            <itunes:title>Best Of The Edge Nights Podcast #8 - September 21-25</itunes:title>
+            <description>On the show this week, we prank call Haylee's mum Maree using a random voicemail recording,
+                Haylee receives an album of humans meowing in the mail, and we play 'Guess That Chip'
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, we prank call Haylee's mum Maree using a random voicemail recording, Haylee receives an album of humans meowing in the mail, and we play 'Guess That Chip'</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, we prank call Haylee's mum Maree using a random voicemail recording,
+                Haylee receives an album of humans meowing in the mail, and we play 'Guess That Chip'
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/60a89f75-0f6e-4421-be19-ac40016cfb8f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603144854"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-8-september-21-25/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">60a89f75-0f6e-4421-be19-ac40016cfb8f</guid>
+            <omny:clipId>60a89f75-0f6e-4421-be19-ac40016cfb8f</omny:clipId>
+            <pubDate>Thu, 24 Sep 2020 22:19:08 +0000</pubDate>
+            <itunes:duration>1158</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/60a89f75-0f6e-4421-be19-ac40016cfb8f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603144854"
+                    length="18580713" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-8-september-21-25</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #7 - September 14-18</title>
+            <itunes:title>Best Of The Edge Nights Podcast #7 - September 14-18</itunes:title>
+            <description>On the show this week, Haylee becomes an overnight Tik Tok sensation in Turkey of all places,
+                so we try and get her a live radio interview on Turkeys most popular station. This could quite possibly
+                be the best thing we've ever done...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week,&nbsp; Haylee becomes an overnight Tik Tok sensation in Turkey of all places, so we try and get her a live radio interview on Turkeys most popular station. This could quite possibly be the best thing we've ever done...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, Haylee becomes an overnight Tik Tok sensation in Turkey of all
+                places, so we try and get her a live radio interview on Turkeys most popular station. This could quite
+                possibly be the best thing we've ever done...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/407af26a-6275-443a-bc8c-ac3901315c27/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603145474"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-7-september-14-18/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">407af26a-6275-443a-bc8c-ac3901315c27</guid>
+            <omny:clipId>407af26a-6275-443a-bc8c-ac3901315c27</omny:clipId>
+            <pubDate>Thu, 17 Sep 2020 18:39:00 +0000</pubDate>
+            <itunes:duration>1271</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/407af26a-6275-443a-bc8c-ac3901315c27/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603145474"
+                    length="20384625" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-7-september-14-18</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #6 - September 7-11</title>
+            <itunes:title>Best Of The Edge Nights Podcast #6 - September 7-11</itunes:title>
+            <description>On the show this week, the guys talk superstitions, Sean breaks a bunch on air to see if bad
+                luck will come his way and we try to find NZ's cheapest person
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, the guys talk superstitions, Sean breaks a bunch on air to see if bad luck will come his way and we try to find NZ's cheapest person</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, the guys talk superstitions, Sean breaks a bunch on air to see if bad
+                luck will come his way and we try to find NZ's cheapest person
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/0ac854c7-1e8c-452a-a64a-ac36002d54e7/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603144920"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-6-7-11-september/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">0ac854c7-1e8c-452a-a64a-ac36002d54e7</guid>
+            <omny:clipId>0ac854c7-1e8c-452a-a64a-ac36002d54e7</omny:clipId>
+            <pubDate>Mon, 14 Sep 2020 02:50:00 +0000</pubDate>
+            <itunes:duration>1351</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/0ac854c7-1e8c-452a-a64a-ac36002d54e7/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1603144920"
+                    length="21663579" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-6-7-11-september</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #5 - August 31 - September 4</title>
+            <itunes:title>Best Of The Edge Nights Podcast #5 - August 31 - September 4</itunes:title>
+            <description>On the show this week, Haylee's mum takes on 'WAP', we talk to Nicole who's nana's a nudist,
+                and we play a new game - 'Who's Ya Daddy'!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, Haylee's mum takes on 'WAP', we talk to Nicole who's nana's a nudist, and we play a new game - 'Who's Ya Daddy'!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, Haylee's mum takes on 'WAP', we talk to Nicole who's nana's a nudist,
+                and we play a new game - 'Who's Ya Daddy'!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ba7e4afb-e1a5-48ea-9597-ac2c00144a0a/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1599182568"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-5-august-31-septem/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">ba7e4afb-e1a5-48ea-9597-ac2c00144a0a</guid>
+            <omny:clipId>ba7e4afb-e1a5-48ea-9597-ac2c00144a0a</omny:clipId>
+            <pubDate>Fri, 04 Sep 2020 01:22:48 +0000</pubDate>
+            <itunes:duration>1187</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ba7e4afb-e1a5-48ea-9597-ac2c00144a0a/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1599182568"
+                    length="19037347" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-5-august-31-septem</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #4 - August 24 - 28</title>
+            <itunes:title>Best Of The Edge Nights Podcast #4 - August 24 - 28</itunes:title>
+            <description>On the show this week, we try to find the closest connection to Jacinda Ardern, Sean busts into
+                another radio station for Bet Ya Won't, and we try to find the official Edge Nights Doggo!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, we try to find the closest connection to Jacinda Ardern, Sean busts into another radio station for Bet Ya Won't, and we try to find the official Edge Nights Doggo!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, we try to find the closest connection to Jacinda Ardern, Sean busts
+                into another radio station for Bet Ya Won't, and we try to find the official Edge Nights Doggo!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/79fba4d7-3c18-4c1d-a2a2-ac28009e4968/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1598866858"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-4-august-24-28/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">79fba4d7-3c18-4c1d-a2a2-ac28009e4968</guid>
+            <omny:clipId>79fba4d7-3c18-4c1d-a2a2-ac28009e4968</omny:clipId>
+            <pubDate>Mon, 31 Aug 2020 09:40:58 +0000</pubDate>
+            <itunes:duration>1324</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/79fba4d7-3c18-4c1d-a2a2-ac28009e4968/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1598866858"
+                    length="21235804" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-4-august-24-28</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #3 - August 17-21</title>
+            <itunes:title>Best Of The Edge Nights Podcast #3 - August 17-21</itunes:title>
+            <description>On the show this week, we try a new game where we try and find who has the closest relationship
+                to Stan Walker in 'Any Degree of Separation'. Haylee can tell if you're a ginger in 'Ranga Whisperer'
+                and Sean comes up with the new game 'Is It A Miley Cyrus Lyric or a Piece from 50 Shades'.
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, we try a new game where we try and find who has the closest relationship to Stan Walker in 'Any Degree of Separation'. Haylee can tell if you're a ginger in 'Ranga Whisperer' and Sean comes up with the new game 'Is It A Miley Cyrus Lyric or a Piece from 50 Shades'.&nbsp;</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, we try a new game where we try and find who has the closest
+                relationship to Stan Walker in 'Any Degree of Separation'. Haylee can tell if you're a ginger in 'Ranga
+                Whisperer' and Sean comes up with the new game 'Is It A Miley Cyrus Lyric or a Piece from 50 Shades'.
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/a9131c75-d8a5-4d88-82e6-ac1d0141f696/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1597952695"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-3-august-17-21/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">a9131c75-d8a5-4d88-82e6-ac1d0141f696</guid>
+            <omny:clipId>a9131c75-d8a5-4d88-82e6-ac1d0141f696</omny:clipId>
+            <pubDate>Thu, 20 Aug 2020 19:38:00 +0000</pubDate>
+            <itunes:duration>1377</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/a9131c75-d8a5-4d88-82e6-ac1d0141f696/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1597952695"
+                    length="22083005" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-3-august-17-21</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #2 - August 10-14</title>
+            <itunes:title>Best Of The Edge Nights Podcast #2 - August 10-14</itunes:title>
+            <description>On the show this week, we have a massive announcement about the biggest music festival in NZ
+                and we play the iconic game 'Guess That Soup'
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On the show this week, we have a massive announcement about the biggest music festival in NZ and we play the iconic game 'Guess That Soup'</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On the show this week, we have a massive announcement about the biggest music festival in NZ
+                and we play the iconic game 'Guess That Soup'
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/fa285501-644e-4a0b-b613-ac16015dc7ef/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1597353849"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-2-august-10-14/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">fa285501-644e-4a0b-b613-ac16015dc7ef</guid>
+            <omny:clipId>fa285501-644e-4a0b-b613-ac16015dc7ef</omny:clipId>
+            <pubDate>Thu, 13 Aug 2020 21:24:09 +0000</pubDate>
+            <itunes:duration>1297</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/fa285501-644e-4a0b-b613-ac16015dc7ef/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1597353849"
+                    length="20805721" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/best-of-the-edge-nights-podcast-2-august-10-14</link>
+        </item>
+        <item>
+            <title>Best Of The Edge Nights Podcast #1 - August 3-7</title>
+            <itunes:title>Best Of The Edge Nights Podcast #1 - August 3-7</itunes:title>
+            <description>Welcome to the first Best Of The Edge Nights Podcast for 2020! This week, we make great
+                progress in our bid to hosting the world's first music festival at a supermarket, we chat to rapper
+                Blackbear, and bring back the legendary 'Loose Fact' segment
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Welcome to the first Best Of The Edge Nights Podcast for 2020! This week, we make great progress in our bid to hosting the world's first music festival at a supermarket, we chat to rapper Blackbear, and bring back the legendary 'Loose Fact' segment</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Welcome to the first Best Of The Edge Nights Podcast for 2020! This week, we make great
+                progress in our bid to hosting the world's first music festival at a supermarket, we chat to rapper
+                Blackbear, and bring back the legendary 'Loose Fact' segment
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/51be9a16-2052-4de0-9f69-ac10006daa91/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1596782922"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-nights-podcast-august-3-7/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">51be9a16-2052-4de0-9f69-ac10006daa91</guid>
+            <omny:clipId>51be9a16-2052-4de0-9f69-ac10006daa91</omny:clipId>
+            <pubDate>Fri, 07 Aug 2020 06:44:00 +0000</pubDate>
+            <itunes:duration>1300</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/51be9a16-2052-4de0-9f69-ac10006daa91/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1596782922"
+                    length="20855457" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-edge-nights-podcast-august-3-7</link>
+        </item>
+    </channel>
+</rss>

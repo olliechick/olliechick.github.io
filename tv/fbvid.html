@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Video - olliechick.co.nz</title>
+</head>
+
+<body>
+
+<iframe id="video" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+        allowtransparency="true" allowfullscreen="true"></iframe>
+
+<script>
+
+    window.onload = initPage;
+
+    function initPage() {
+        document.getElementById("video").src = "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F573069289763228%2Fvideos%2F"
+            + new URL(window.location.href).searchParams.get("vid")
+            + "%2F&amp;mute=0&amp;autoplay=true&amp;show_text=0&amp;width=560";
+    }
+
+</script>
+
+</body>
+</html>

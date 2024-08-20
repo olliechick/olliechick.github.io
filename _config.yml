@@ -1,0 +1,14 @@
+plugins:
+  - jekyll-redirect-from
+
+title: Ollie Chick
+description: Ollie Chick
+exclude: [CNAME, README.md, podcasts/scripts, scripts]
+include: [.well-known]
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

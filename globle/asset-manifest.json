@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/globle/static/css/main.dba20500.css",
+    "main.js": "/globle/static/js/main.91999db0.js",
+    "static/js/417.a7fdc50d.chunk.js": "/globle/static/js/417.a7fdc50d.chunk.js",
+    "static/js/781.eb29203c.chunk.js": "/globle/static/js/781.eb29203c.chunk.js",
+    "static/js/249.ffe65306.chunk.js": "/globle/static/js/249.ffe65306.chunk.js",
+    "static/js/475.44afb0b2.chunk.js": "/globle/static/js/475.44afb0b2.chunk.js",
+    "index.html": "/globle/index.html",
+    "main.dba20500.css.map": "/globle/static/css/main.dba20500.css.map",
+    "main.91999db0.js.map": "/globle/static/js/main.91999db0.js.map",
+    "417.a7fdc50d.chunk.js.map": "/globle/static/js/417.a7fdc50d.chunk.js.map",
+    "781.eb29203c.chunk.js.map": "/globle/static/js/781.eb29203c.chunk.js.map",
+    "249.ffe65306.chunk.js.map": "/globle/static/js/249.ffe65306.chunk.js.map",
+    "475.44afb0b2.chunk.js.map": "/globle/static/js/475.44afb0b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dba20500.css",
+    "static/js/main.91999db0.js"
+  ]
+}

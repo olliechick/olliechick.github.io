@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/"
+     xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/"
+     version="2.0">
+    <channel>
+        <language>en-US</language>
+        <title>[Archive] The Edge Bottomless Brunch Podcast</title>
+        <itunes:subtitle>Sean and Soph are kick starting your weekend the right way with The Edge Bottomless Brunch!
+            [archive]
+        </itunes:subtitle>
+        <link>http://www.theedge.co.nz/home/shows/the-edge-30.html</link>
+        <description>
+            <![CDATA[<p>Sean and Soph are kick starting your weekend the right way with The Edge Bottomless Brunch! [archive]&nbsp;</p>]]></description>
+        <itunes:type>episodic</itunes:type>
+        <itunes:summary>Sean and Soph are kick starting your weekend the right way with The Edge Bottomless Brunch!
+            [archive]
+        </itunes:summary>
+        <itunes:owner>
+            <itunes:name>MediaWorks NZ</itunes:name>
+            <itunes:email>podcasts@rova.nz</itunes:email>
+        </itunes:owner>
+        <itunes:author>rova | The Edge</itunes:author>
+        <copyright>2021 MediaWorks 040745</copyright>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:category text="Comedy"></itunes:category>
+        <itunes:category text="Music"></itunes:category>
+        <itunes:image
+                href="https://olliechick.co.nz/podcasts/seansoph.jpg"/>
+        <image>
+            <url>
+                https://olliechick.co.nz/podcasts/seansoph.jpg
+            </url>
+            <title>The Edge Bottomless Brunch Podcast [archive]</title>
+            <link>https://www.theedge.co.nz/home/shows/the-edge-bottomless-brunch.html</link>
+        </image>
+
+        <!-- view-source:https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/podcast.rss -->
+
+        <!-- 2023 -->
+        <item>
+            <title>The Sean and Soph Show: We Have an Announcement</title>
+            <itunes:title>The Sean and Soph Show: We Have an Announcement</itunes:title>
+            <description>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the Sean and Soph Show we cover everything big that happened in pop culture!  </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the Sean and Soph Show we cover everything big that happened in pop culture!  </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/dd229c88-e084-4731-a124-b01e000adde7/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/sean-and-soph/the-sean-and-soph-show-we-have-an-announcement/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">dd229c88-e084-4731-a124-b01e000adde7</guid>
+            <omny:clipId>dd229c88-e084-4731-a124-b01e000adde7</omny:clipId>
+            <pubDate>Sun, 11 Jun 2023 00:44:50 +0000</pubDate>
+            <itunes:duration>1796</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/dd229c88-e084-4731-a124-b01e000adde7/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="28806397" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/the-sean-and-soph-show-we-have-an-announcement</link>
+        </item>
+        <item>
+            <title>The Sean and Soph Show: The Small Mermaid</title>
+            <itunes:title>The Sean and Soph Show: The Small Mermaid</itunes:title>
+            <description>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the Sean and Soph Show we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the Sean and Soph Show we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/633cb8d9-25ec-41bb-b02d-b018004bc74a/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/sean-and-soph/the-sean-and-soph-show-the-small-mermaid/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">633cb8d9-25ec-41bb-b02d-b018004bc74a</guid>
+            <omny:clipId>633cb8d9-25ec-41bb-b02d-b018004bc74a</omny:clipId>
+            <pubDate>Mon, 05 Jun 2023 04:39:45 +0000</pubDate>
+            <itunes:duration>1703</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/633cb8d9-25ec-41bb-b02d-b018004bc74a/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="27310097" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/the-sean-and-soph-show-the-small-mermaid</link>
+        </item>
+
+        <!-- May -->
+        <item>
+            <title>The Sean and Soph Show: Sean Gets Back From His "OE"</title>
+            <itunes:title>The Sean and Soph Show: Sean Gets Back From His "OE"</itunes:title>
+            <description>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/125c6c0a-09a2-4ce2-8bc4-b00900143a38/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/sean-and-soph/the-sean-and-soph-show-sean-gets-back-from-his-oe/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">125c6c0a-09a2-4ce2-8bc4-b00900143a38</guid>
+            <omny:clipId>125c6c0a-09a2-4ce2-8bc4-b00900143a38</omny:clipId>
+            <pubDate>Sun, 21 May 2023 01:19:14 +0000</pubDate>
+            <itunes:duration>2114</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/125c6c0a-09a2-4ce2-8bc4-b00900143a38/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="33895473" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/the-sean-and-soph-show-sean-gets-back-from-his-oe</link>
+        </item>
+        <item>
+            <title>Bottomless Brunch - Wilkinson Joins Us</title>
+            <itunes:title>Bottomless Brunch - Wilkinson Joins Us</itunes:title>
+            <description>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3f3ba02d-0682-4473-bd55-affc00088fdb/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/sean-and-soph/bottomless-brunch-wilkinson-joins-us/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">3f3ba02d-0682-4473-bd55-affc00088fdb</guid>
+            <omny:clipId>3f3ba02d-0682-4473-bd55-affc00088fdb</omny:clipId>
+            <pubDate>Mon, 08 May 2023 02:00:05 +0000</pubDate>
+            <itunes:duration>2009</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3f3ba02d-0682-4473-bd55-affc00088fdb/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="32221533" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/bottomless-brunch-wilkinson-joins-us</link>
+        </item>
+
+        <!-- April -->
+        <item>
+            <title>SEAN AND SOPH CATCH UP PODCAST - APRIL 24TH: Soph's massive celebrity guest!</title>
+            <itunes:title>SEAN AND SOPH CATCH UP PODCAST - APRIL 24TH: Soph's massive celebrity guest!</itunes:title>
+            <description>
+                <![CDATA[<p>On the podcast today Sean &amp; Soph BRING THE HEAT and get some huge stars on the show. The team test their friendship in a savage round of Pass The Mic and Soph shares a crazy story on how she managed to get her huge celebrity exclusive.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>On the podcast today Sean &amp; Soph BRING THE HEAT and get some huge stars on the show. The team test their friendship in a savage round of Pass The Mic and Soph shares a crazy story on how she managed to get her huge celebrity exclusive.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ce97a6be-4468-4155-96b6-afed0187326b/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-april-24th-sophs-ma/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">ce97a6be-4468-4155-96b6-afed0187326b</guid>
+            <omny:clipId>ce97a6be-4468-4155-96b6-afed0187326b</omny:clipId>
+            <pubDate>Mon, 24 Apr 2023 00:06:54 +0000</pubDate>
+            <itunes:duration>3741</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ce97a6be-4468-4155-96b6-afed0187326b/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="59922167" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-april-24th-sophs-ma</link>
+        </item>
+        <item>
+            <title>SEAN AND SOPH CATCH UP PODCAST - 21ST APRIL</title>
+            <itunes:title>SEAN AND SOPH CATCH UP PODCAST - 21ST APRIL</itunes:title>
+            <description>
+                <![CDATA[<p>In today's podcast Sean and Soph bring some top tier celebrities on the show for Celebrity Show &amp; Tell. Caller Zeke tells us the best 30 second yarn about doing shots with Missy Elliot and we make some more arrogant assumptions!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>In today's podcast Sean and Soph bring some top tier celebrities on the show for Celebrity Show &amp; Tell. Caller Zeke tells us the best 30 second yarn about doing shots with Missy Elliot and we make some more arrogant assumptions!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/6e2bd5af-0253-4157-9710-afeb00108ce9/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-21st-april/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">6e2bd5af-0253-4157-9710-afeb00108ce9</guid>
+            <omny:clipId>6e2bd5af-0253-4157-9710-afeb00108ce9</omny:clipId>
+            <pubDate>Fri, 21 Apr 2023 01:12:21 +0000</pubDate>
+            <itunes:duration>3475</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/6e2bd5af-0253-4157-9710-afeb00108ce9/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="55675668" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-21st-april</link>
+        </item>
+        <item>
+            <title>SEAN AND SOPH CATCH UP PODCAST - 20TH APRIL: SOPH CALLS HER EX</title>
+            <itunes:title>SEAN AND SOPH CATCH UP PODCAST - 20TH APRIL: SOPH CALLS HER EX</itunes:title>
+            <description>
+                <![CDATA[<p>On the podcast today, Sophie calls her ex who she hasn't spoken to since OCTOBER to ask for her jumper back. Sean offends a famous politician after he finds out that he called Max Key before him. And we both guess what you do for a job based on what you had for breakfast!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>On the podcast today, Sophie calls her ex who she hasn't spoken to since OCTOBER to ask for her jumper back. Sean offends a famous politician after he finds out that he called Max Key before him. And we both guess what you do for a job based on what you had for breakfast!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1c832ef4-ce13-49b9-970b-afea0027c6e6/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-20th-april-soph-cal/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1c832ef4-ce13-49b9-970b-afea0027c6e6</guid>
+            <omny:clipId>1c832ef4-ce13-49b9-970b-afea0027c6e6</omny:clipId>
+            <pubDate>Thu, 20 Apr 2023 02:40:15 +0000</pubDate>
+            <itunes:duration>3306</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1c832ef4-ce13-49b9-970b-afea0027c6e6/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="52974949" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-20th-april-soph-cal</link>
+        </item>
+        <item>
+            <title>SEAN AND SOPH CATCH UP PODCAST - 19TH APRIL: IS SOPH FISHING</title>
+            <itunes:title>SEAN AND SOPH CATCH UP PODCAST - 19TH APRIL: IS SOPH FISHING</itunes:title>
+            <description>
+                <![CDATA[<p>On the podcast today, Sophie has some relationship theories that she wants to see if people agree with. We have a relationship expert to see if there could be any truth or if Soph is just fishing for dates on air. Sean has a game to play off the back of some things Soph has said in the past. The show competes to see who can have the most famous guests on the show this week.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>On the podcast today, Sophie has some relationship theories that she wants to see if people agree with. We have a relationship expert to see if there could be any truth or if Soph is just fishing for dates on air. Sean has a game to play off the back of some things Soph has said in the past. The show competes to see who can have the most famous guests on the show this week.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/64db54b9-7a2e-493c-aeb4-afe8015df9bc/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-19th-april/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">64db54b9-7a2e-493c-aeb4-afe8015df9bc</guid>
+            <omny:clipId>64db54b9-7a2e-493c-aeb4-afe8015df9bc</omny:clipId>
+            <pubDate>Tue, 18 Apr 2023 21:28:09 +0000</pubDate>
+            <itunes:duration>4132</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/64db54b9-7a2e-493c-aeb4-afe8015df9bc/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="66183597" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-19th-april</link>
+        </item>
+        <item>
+            <title>SEAN AND SOPH CATCH UP PODCAST - 11TH APRIL</title>
+            <itunes:title>SEAN AND SOPH CATCH UP PODCAST - 11TH APRIL</itunes:title>
+            <description>
+                <![CDATA[<p>Sean and Soph fill in for the edge breakfast. They decide to use some of the show budget to give prizes to every caller. Soph is going on a blind date and Sean thinks its a bad idea. Sean is worried he cant take his budgy smugglers to Fiji so Soph suggests he go on the street for support.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Sean and Soph fill in for the edge breakfast. They decide to use some of the show budget to give prizes to every caller. Soph is going on a blind date and Sean thinks its a bad idea. Sean is worried he cant take his budgy smugglers to Fiji so Soph suggests he go on the street for support.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ab52f151-c53f-4418-bf9f-afe0017ebc39/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-11th-april/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">ab52f151-c53f-4418-bf9f-afe0017ebc39</guid>
+            <omny:clipId>ab52f151-c53f-4418-bf9f-afe0017ebc39</omny:clipId>
+            <pubDate>Mon, 10 Apr 2023 23:34:58 +0000</pubDate>
+            <itunes:duration>4338</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ab52f151-c53f-4418-bf9f-afe0017ebc39/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="69474173" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/sean-and-soph-catch-up-podcast-11th-april</link>
+        </item>
+        <item>
+            <title>BOTTOMLESS BRUNCH - EASTER EDITION</title>
+            <itunes:title>BOTTOMLESS BRUNCH - EASTER EDITION</itunes:title>
+            <description>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5018d01b-698c-48fe-a3f2-afdc008adf39/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/sean-and-soph/bottomless-brunch-easter-edition/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">5018d01b-698c-48fe-a3f2-afdc008adf39</guid>
+            <omny:clipId>5018d01b-698c-48fe-a3f2-afdc008adf39</omny:clipId>
+            <pubDate>Fri, 07 Apr 2023 22:00:00 +0000</pubDate>
+            <itunes:duration>1711</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5018d01b-698c-48fe-a3f2-afdc008adf39/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="27440427" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/bottomless-brunch-easter-edition</link>
+        </item>
+
+        <!-- March -->
+        <item>
+            <title>BOTTOMLESS BRUNCH PODCAST - DEVELOPING NEW PERSONALITY TRAITS</title>
+            <itunes:title>BOTTOMLESS BRUNCH PODCAST - DEVELOPING NEW PERSONALITY TRAITS</itunes:title>
+            <description>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/71ea0d1d-e288-49f9-80b1-afc300026dee/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/bottomless-brunch-podcast-developing-new-personali/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">71ea0d1d-e288-49f9-80b1-afc300026dee</guid>
+            <omny:clipId>71ea0d1d-e288-49f9-80b1-afc300026dee</omny:clipId>
+            <pubDate>Sun, 12 Mar 2023 00:12:24 +0000</pubDate>
+            <itunes:duration>1283</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/71ea0d1d-e288-49f9-80b1-afc300026dee/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="20599716" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/bottomless-brunch-podcast-developing-new-personali</link>
+        </item>
+        <item>
+            <title>BOTTEMLESS BRUNCH PODCAST - HOLDLINE KARAOKE</title>
+            <itunes:title>BOTTEMLESS BRUNCH PODCAST - HOLDLINE KARAOKE</itunes:title>
+            <description>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/2c96a648-df6a-4144-9980-afb8002e68a0/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/bottemless-brunch-holdline-karaoke/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">2c96a648-df6a-4144-9980-afb8002e68a0</guid>
+            <omny:clipId>2c96a648-df6a-4144-9980-afb8002e68a0</omny:clipId>
+            <pubDate>Wed, 01 Mar 2023 02:58:39 +0000</pubDate>
+            <itunes:duration>1866</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/2c96a648-df6a-4144-9980-afb8002e68a0/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="29922696" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/bottemless-brunch-holdline-karaoke</link>
+        </item>
+
+        <!-- February -->
+        <item>
+            <title>THE BOTTOMLESS BRUNCH PODCAST - FT. NETSKY</title>
+            <itunes:title>THE BOTTOMLESS BRUNCH PODCAST - FT. NETSKY</itunes:title>
+            <description>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture, and Netsky joins us on the show! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Hey guys! Sean and Soph here, this week on the bottomless brunch podcast we cover everything big that happened in pop culture, and Netsky joins us on the show! </p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/15ad66ff-9dd3-4a1d-a46d-afa400674b61/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-bottomless-brunch-podcast-ft-netsky/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">15ad66ff-9dd3-4a1d-a46d-afa400674b61</guid>
+            <omny:clipId>15ad66ff-9dd3-4a1d-a46d-afa400674b61</omny:clipId>
+            <pubDate>Thu, 09 Feb 2023 06:20:15 +0000</pubDate>
+            <itunes:duration>1169</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/15ad66ff-9dd3-4a1d-a46d-afa400674b61/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="18766680" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-bottomless-brunch-podcast-ft-netsky</link>
+        </item>
+    </channel>
+</rss>

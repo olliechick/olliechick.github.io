@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/scumgraph-alpha/static/css/main.4e4d8fad.css",
+    "main.js": "/scumgraph-alpha/static/js/main.1776b004.js",
+    "static/media/logo.png": "/scumgraph-alpha/static/media/logo.be89203ff74275f05429.png",
+    "index.html": "/scumgraph-alpha/index.html",
+    "main.4e4d8fad.css.map": "/scumgraph-alpha/static/css/main.4e4d8fad.css.map",
+    "main.1776b004.js.map": "/scumgraph-alpha/static/js/main.1776b004.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e4d8fad.css",
+    "static/js/main.1776b004.js"
+  ]
+}

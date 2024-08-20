@@ -1,0 +1,135 @@
+{
+  "configVersion": 1,
+  "timestamp": 1650858841966,
+  "index": "/scattergories/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/scattergories/favicon.ico",
+        "/scattergories/index.html",
+        "/scattergories/main.d39b78b2d7f9ecbe.js",
+        "/scattergories/manifest.webmanifest",
+        "/scattergories/polyfills.75607a68bc992964.js",
+        "/scattergories/runtime.817e2183da8bb8a0.js",
+        "/scattergories/styles.f26cdcb57409ceba.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/scattergories/assets/categories.csv",
+        "/scattergories/assets/icons/icon-128x128.png",
+        "/scattergories/assets/icons/icon-144x144.png",
+        "/scattergories/assets/icons/icon-152x152.png",
+        "/scattergories/assets/icons/icon-192x192.png",
+        "/scattergories/assets/icons/icon-384x384.png",
+        "/scattergories/assets/icons/icon-512x512.png",
+        "/scattergories/assets/icons/icon-72x72.png",
+        "/scattergories/assets/icons/icon-96x96.png",
+        "/scattergories/assets/sounds/1.mp3",
+        "/scattergories/assets/sounds/10.mp3",
+        "/scattergories/assets/sounds/2.mp3",
+        "/scattergories/assets/sounds/3.mp3",
+        "/scattergories/assets/sounds/a.mp3",
+        "/scattergories/assets/sounds/b.mp3",
+        "/scattergories/assets/sounds/c.mp3",
+        "/scattergories/assets/sounds/d.mp3",
+        "/scattergories/assets/sounds/e.mp3",
+        "/scattergories/assets/sounds/f.mp3",
+        "/scattergories/assets/sounds/g.mp3",
+        "/scattergories/assets/sounds/h.mp3",
+        "/scattergories/assets/sounds/i.mp3",
+        "/scattergories/assets/sounds/j.mp3",
+        "/scattergories/assets/sounds/k.mp3",
+        "/scattergories/assets/sounds/l.mp3",
+        "/scattergories/assets/sounds/m.mp3",
+        "/scattergories/assets/sounds/n.mp3",
+        "/scattergories/assets/sounds/o.mp3",
+        "/scattergories/assets/sounds/one-minute-remaining.mp3",
+        "/scattergories/assets/sounds/p.mp3",
+        "/scattergories/assets/sounds/r.mp3",
+        "/scattergories/assets/sounds/s.mp3",
+        "/scattergories/assets/sounds/stop.mp3",
+        "/scattergories/assets/sounds/t.mp3",
+        "/scattergories/assets/sounds/u.mp3"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/scattergories/assets/categories.csv": "799bd0c1bcf9f524e434889061679e6c3b03fae3",
+    "/scattergories/assets/icons/icon-128x128.png": "089d253503b8f07647195133e984827acb29e280",
+    "/scattergories/assets/icons/icon-144x144.png": "d76a968bec7a3d1368c0a7827186f31e64fb8535",
+    "/scattergories/assets/icons/icon-152x152.png": "da153f47a9782992f16e279c64978e194251f31a",
+    "/scattergories/assets/icons/icon-192x192.png": "ab728ee723da5de1ee65ad01449bdd2704502609",
+    "/scattergories/assets/icons/icon-384x384.png": "63ee457e323f2c590eb43a238f6eaf3904810631",
+    "/scattergories/assets/icons/icon-512x512.png": "a5a38628c970adab98909f56e89ad9737746954d",
+    "/scattergories/assets/icons/icon-72x72.png": "e8f27209d8a68bf4ebeac158d79f44a05c2164ba",
+    "/scattergories/assets/icons/icon-96x96.png": "22f1d79ff9d5906bed1d28b1b696711235c8e1e4",
+    "/scattergories/assets/sounds/1.mp3": "fc5312f344d316d03ba352cd4933970f7a8c8c12",
+    "/scattergories/assets/sounds/10.mp3": "7013166413884d735571fcb55e758e1227b210a2",
+    "/scattergories/assets/sounds/2.mp3": "cd1e444f9384dcf97bd8b8dc9bf899be8d559496",
+    "/scattergories/assets/sounds/3.mp3": "71610eb03fd3772eb4bac7d5b626eb050c65a259",
+    "/scattergories/assets/sounds/a.mp3": "5a9f2452a144ec2e70f76939f34bf33692a02964",
+    "/scattergories/assets/sounds/b.mp3": "36b4059d9cb5028e4a5458091229789b1462b096",
+    "/scattergories/assets/sounds/c.mp3": "47c5bd2c0ff4358606aaf8e5389d925d2e994b1f",
+    "/scattergories/assets/sounds/d.mp3": "5f64e4a4e198e1b5f70bdf3fbf0a615431a351e2",
+    "/scattergories/assets/sounds/e.mp3": "0f1ca1e7f271c39414d2bc5f600504a2c876c12e",
+    "/scattergories/assets/sounds/f.mp3": "4949a59f01c9f33b8c93e372b70be562e0e2ae11",
+    "/scattergories/assets/sounds/g.mp3": "ce4152ab862b46136619808eb7e58b0aa130f3ae",
+    "/scattergories/assets/sounds/h.mp3": "36fc7246327761ea2233f54c629f4445a8d7a6f8",
+    "/scattergories/assets/sounds/i.mp3": "6c3f7b82b0be7cf174e04de4b975b31ac8932e52",
+    "/scattergories/assets/sounds/j.mp3": "67b714ef0b7e8fba85b3234f2a2e4abf9665aa8e",
+    "/scattergories/assets/sounds/k.mp3": "f11510ae90046362839af46771bf8286f0b42d7c",
+    "/scattergories/assets/sounds/l.mp3": "eddd8d7d9201e23695610e2755c53526a04b3197",
+    "/scattergories/assets/sounds/m.mp3": "b5ca734b642cbd1d21c389cfc50103cd4bd4cadb",
+    "/scattergories/assets/sounds/n.mp3": "5130ec35a617df7e642aa4aa053fca993b6c485c",
+    "/scattergories/assets/sounds/o.mp3": "dfcba55f3db2fc53ae5abc21a326dab962fdc104",
+    "/scattergories/assets/sounds/one-minute-remaining.mp3": "0d44149673b71bc2a54de79549366d8020633075",
+    "/scattergories/assets/sounds/p.mp3": "8c8f6ae4a646aba12980f7afd1e7819c667c31a9",
+    "/scattergories/assets/sounds/r.mp3": "01a1039848f135f72e0e15fb21cec7cb08f1bb15",
+    "/scattergories/assets/sounds/s.mp3": "c6415570e14ff29d8defec26c32b795c2b45d701",
+    "/scattergories/assets/sounds/stop.mp3": "74aeb09c06a9a492d9bafd558a06cc4fda8ce4ef",
+    "/scattergories/assets/sounds/t.mp3": "098fe631da456c88301f691abdd59a28dd831c9b",
+    "/scattergories/assets/sounds/u.mp3": "483ecaae4e74949bbcd58fde84281258d22d31a8",
+    "/scattergories/favicon.ico": "eba42d5d7610d0b1a9a9f53a424580697f093669",
+    "/scattergories/index.html": "b87cfcf8be095a9859d64b551344ea23d792fe67",
+    "/scattergories/main.d39b78b2d7f9ecbe.js": "662965ad71327bd809b4b1dadd58c81483e14bdf",
+    "/scattergories/manifest.webmanifest": "4208edcfc74eb5b75754fd37fc49f9fd5bbdceca",
+    "/scattergories/polyfills.75607a68bc992964.js": "f636bf93167bdf5d488db25e554d3f436fb25b95",
+    "/scattergories/runtime.817e2183da8bb8a0.js": "27d05826c9c02ed6e450e6f3d25da24fc828f2c4",
+    "/scattergories/styles.f26cdcb57409ceba.css": "15675f4eafadd6fbe22d03e4b29f87edb0e9d4a2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

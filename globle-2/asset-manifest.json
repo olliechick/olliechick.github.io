@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/globle-2/static/css/main.4183f0a7.css",
+    "main.js": "/globle-2/static/js/main.0ab3727e.js",
+    "static/js/417.a7fdc50d.chunk.js": "/globle-2/static/js/417.a7fdc50d.chunk.js",
+    "static/js/254.08617f3f.chunk.js": "/globle-2/static/js/254.08617f3f.chunk.js",
+    "static/js/249.c7c0cdb8.chunk.js": "/globle-2/static/js/249.c7c0cdb8.chunk.js",
+    "static/js/475.44afb0b2.chunk.js": "/globle-2/static/js/475.44afb0b2.chunk.js",
+    "index.html": "/globle-2/index.html",
+    "main.4183f0a7.css.map": "/globle-2/static/css/main.4183f0a7.css.map",
+    "main.0ab3727e.js.map": "/globle-2/static/js/main.0ab3727e.js.map",
+    "417.a7fdc50d.chunk.js.map": "/globle-2/static/js/417.a7fdc50d.chunk.js.map",
+    "254.08617f3f.chunk.js.map": "/globle-2/static/js/254.08617f3f.chunk.js.map",
+    "249.c7c0cdb8.chunk.js.map": "/globle-2/static/js/249.c7c0cdb8.chunk.js.map",
+    "475.44afb0b2.chunk.js.map": "/globle-2/static/js/475.44afb0b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4183f0a7.css",
+    "static/js/main.0ab3727e.js"
+  ]
+}

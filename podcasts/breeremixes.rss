@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+    <channel>
+        <atom:link href="https://olliechick.co.nz/podcasts/friday.rss" rel="self" type="application/rss+xml"/>
+        <title>Bree's Friday remixes</title>
+        <link>https://olliechick.co.nz/podcasts/friday.rss</link>
+        <description>Bree &amp; Clint's Bree Tomasel remixes Riton x Nightcrawlers - Friday ft. Mufasa &amp; Hypeman for
+            each day of the week.
+        </description>
+        <language>en-us</language>
+
+        <image>
+            <title>Bree's Friday remixes</title>
+            <url>https://i.imgur.com/qIVbdaz.jpg</url>
+            <width>100</width>
+            <height>100</height>
+        </image>
+
+        <item>
+            <title>Monday</title>
+            <guid>https://olliechick.co.nz/podcasts/breeremixes/mon.mp3</guid>
+            <itunes:image href="https://i.imgur.com/AqOdjnl.jpg"/>
+            <enclosure url="https://olliechick.co.nz/podcasts/breeremixes/mon.mp3" length="17680040" type="audio/mpeg"/>
+            <category>Music</category>
+            <pubDate>Mon, 3 May 2021 19:00:00 +1200</pubDate>
+        </item>
+
+        <item>
+            <title>Tuesday</title>
+            <guid>https://olliechick.co.nz/podcasts/breeremixes/tue.mp3</guid>
+            <itunes:image href="https://i.imgur.com/j5HCrRK.jpg"/>
+            <enclosure url="https://olliechick.co.nz/podcasts/breeremixes/tue.mp3" length="17680040" type="audio/mpeg"/>
+            <category>Music</category>
+            <pubDate>Tue, 4 May 2021 19:00:00 +1200</pubDate>
+        </item>
+
+        <item>
+            <title>Wednesday</title>
+            <guid>https://olliechick.co.nz/podcasts/breeremixes/wed.mp3</guid>
+            <itunes:image href="https://i.imgur.com/itQGNjY.jpg"/>
+            <enclosure url="https://olliechick.co.nz/podcasts/breeremixes/wed.mp3" length="17680040" type="audio/mpeg"/>
+            <category>Music</category>
+            <pubDate>Wed, 5 May 2021 19:00:00 +1200</pubDate>
+        </item>
+
+        <item>
+            <title>Thursday</title>
+            <guid>https://olliechick.co.nz/podcasts/breeremixes/thu.mp3</guid>
+            <itunes:image href="https://i.imgur.com/uQuFuq5.jpg"/>
+            <enclosure url="https://olliechick.co.nz/podcasts/breeremixes/thu.mp3" length="17680040" type="audio/mpeg"/>
+            <category>Music</category>
+            <pubDate>Thu, 6 May 2021 19:00:00 +1200</pubDate>
+        </item>
+
+        <item>
+            <title>Friday</title>
+            <guid>https://olliechick.co.nz/podcasts/breeremixes/fri.mp3</guid>
+            <itunes:image href="https://i.imgur.com/pgiXiLQ.jpg"/>
+            <enclosure url="https://olliechick.co.nz/podcasts/breeremixes/fri.mp3" length="17680040" type="audio/mpeg"/>
+            <category>Music</category>
+            <pubDate>Fri, 7 May 2021 19:00:00 +1200</pubDate>
+        </item>
+
+    </channel>
+</rss>

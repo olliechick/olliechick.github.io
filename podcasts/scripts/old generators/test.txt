@@ -1,0 +1,57 @@
+<item>
+            <title>The Edge 30 Podcast - Steph's Final Show</title>
+            <itunes:title>The Edge 30 Podcast - Steph's Final Show</itunes:title>
+            <description>
+                <![CDATA[<p>Here it is, Stephanie Monks' final show on The Edge! We'll miss you a bunch, Steph &lt;3</p>]]></description>
+            <itunes:summary>Here it is, Stephanie Monks' final show on The Edge! We'll miss you a bunch, Steph &lt;3
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://olliechick.github.io/podcasts/martysteph.jpg"/>
+            <media:content
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/b6068826-eef0-4db0-ae32-a9a800a08b5f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1543572207"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-edge-30-podcast-stephs-final-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://olliechick.github.io/podcasts/martysteph.jpg"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">b6068826-eef0-4db0-ae32-a9a800a08b5f</guid>
+            <pubDate>Fri, 30 Nov 2018 10:03:20 +0000</pubDate>
+            <itunes:duration>00:51:20</itunes:duration>
+            <enclosure
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/b6068826-eef0-4db0-ae32-a9a800a08b5f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1543572207"
+                    length="49329078" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30-with-marty-steph/the-edge-30-podcast-stephs-final-show</link>
+        </item>
+        <item>
+            <title>The Edge 30 Podcast - Thursday November 29th 2018</title>
+            <itunes:title>The Edge 30 Podcast - Thursday November 29th 2018</itunes:title>
+            <description>
+                <![CDATA[<p>Tonight is Steph's 2nd to last show so we play a few more of our fave memories and bring back a few old school games!</p>]]></description>
+            <itunes:summary>Tonight is Steph's 2nd to last show so we play a few more of our fave memories and bring
+                back a few old school games!
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>The Edge</itunes:author>
+            <itunes:image
+                    href="https://olliechick.github.io/podcasts/martysteph.jpg"/>
+            <media:content
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/d32c8784-d836-429c-b241-a9a7018a3e4f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1543535883"
+                    type="audio/mpeg">
+                <media:player
+                        url="https://omny.fm/shows/the-edge-30/the-edge-30-podcast-thursday-november-29th-2018/embed"/>
+            </media:content>
+            <media:content
+                    url="https://olliechick.github.io/podcasts/martysteph.jpg"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">d32c8784-d836-429c-b241-a9a7018a3e4f</guid>
+            <pubDate>Thu, 29 Nov 2018 23:57:58 +0000</pubDate>
+            <itunes:duration>00:24:29</itunes:duration>
+            <enclosure
+                    url="https://omnystudio.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/d32c8784-d836-429c-b241-a9a7018a3e4f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1543535883"
+                    length="23543104" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30-with-marty-steph/the-edge-30-podcast-thursday-november-29th-2018
+            </link>
+        </item>

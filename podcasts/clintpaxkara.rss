@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0"
+     version="2.0">
+    <channel>
+        <title><![CDATA[[Archive] George Breakfast - George FM - Visit georgefm.co.nz for more ]]></title>
+        <description>
+            <![CDATA[Listen to Clint, Pax and Kara to hear premium quality chat, the finest in new music, cutting edge content and guests you actually want to hear! [archive]]]></description>
+        <link>http://www.georgefm.co.nz/home/shows/george-breakfast.html</link>
+        <generator>George FM</generator>
+        <lastBuildDate>Tue, 02 May 2017 22:12:16 GMT</lastBuildDate>
+        <!--<author><![CDATA[MediaWorks NZ]]></author>-->
+        <copyright><![CDATA[Copyright 2017 MediaWorks NZ Ltd - George FM - www.georgefm.co.nz]]></copyright>
+        <language><![CDATA[en-NZ]]></language><!--
+		<managingEditor><![CDATA[MediaWorks NZ]]></managingEditor>-->
+        <webMaster><![CDATA[podcasts@mediaworks.co.nz]]></webMaster>
+        <category><![CDATA[Public Radio]]></category>
+        <itunes:author>George FM</itunes:author>
+        <itunes:subtitle>Join Clint, Pax and Kara 6-10am weekdays on George FM. [archive]</itunes:subtitle>
+        <itunes:summary>Listen to Clint, Pax and Kara to hear premium quality chat, the finest in new music, cutting
+            edge content and guests you actually want to hear! [archive]
+        </itunes:summary>
+        <itunes:owner>
+            <itunes:name>MediaWorks NZ</itunes:name>
+            <itunes:email>podcasts@mediaworks.co.nz</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:category text="Comedy"/>
+        <itunes:category text="Music"/>
+        <itunes:image href="https://olliechick.co.nz/podcasts/clintpaxkara.jpg"/>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml"
+                     href="http://feeds.feedburner.com/GeorgeBreakfast"/>
+        <feedburner:info uri="georgebreakfast"/>
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+        <media:copyright>Copyright 2017 MediaWorks NZ Ltd - George FM - www.georgefm.co.nz</media:copyright>
+        <media:thumbnail url="https://olliechick.co.nz/podcasts/clintpaxkara.jpg"/>
+        <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Comedy</media:category>
+        <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Music</media:category>
+
+        <!-- WEEK 9, 2017 -->
+        <item>
+            <title><![CDATA[George Breakfast - 27th February]]></title>
+            <description>Clint, Pax &amp; Kara - 27th February&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/VTtMbShe65E" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>https://archive.org/download/clintpaxkara/1488819439675_clint_pax_kara_podcast_27th_feb.mp3</link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1488819439675_clint_pax_kara_podcast_27th_feb.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 06 Mar 2017 16:58:18 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 27th February</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 27th February</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>744.542</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1488819439675_clint_pax_kara_podcast_27th_feb.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink></feedburner:origLink>
+            <enclosure url="https://archive.org/download/clintpaxkara/1488819439675_clint_pax_kara_podcast_27th_feb.mp3"
+                       length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1488819439675_clint_pax_kara_podcast_27th_feb.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 28th February]]></title>
+            <description>Clint, Pax &amp; Kara - 28th February&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/1mPfBPIskdc" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1488819510924_clint_pax_kara_podcast_28th_feb.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1488819510924_clint_pax_kara_podcast_28th_feb.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 06 Mar 2017 17:00:06 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 28th February</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 28th February</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1188.65</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1488819510924_clint_pax_kara_podcast_28th_feb.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1488819510924_clint_pax_kara_podcast_28th_feb.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1488819510924_clint_pax_kara_podcast_28th_feb.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1488819510924_clint_pax_kara_podcast_28th_feb.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 1st March]]></title>
+            <description>Clint, Pax &amp; Kara - 1st March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/RR_cBGOQUz8" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1488819619226_clint_pax_kara_podcast_1st_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1488819619226_clint_pax_kara_podcast_1st_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 06 Mar 2017 17:02:18 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 1st March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 1st March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1576.751</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1488819619226_clint_pax_kara_podcast_1st_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1488819619226_clint_pax_kara_podcast_1st_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1488819619226_clint_pax_kara_podcast_1st_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1488819619226_clint_pax_kara_podcast_1st_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 2nd March]]></title>
+            <description>Clint, Pax &amp; Kara - 2nd March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/DA28zX17QPw" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1488819747294_clint_pax_kara_podcast_2nd_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1488819747294_clint_pax_kara_podcast_2nd_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 06 Mar 2017 17:04:34 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 2nd March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 2nd March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1486.55</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1488819747294_clint_pax_kara_podcast_2nd_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1488819747294_clint_pax_kara_podcast_2nd_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1488819747294_clint_pax_kara_podcast_2nd_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1488819747294_clint_pax_kara_podcast_2nd_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 3rd March]]></title>
+            <description>Clint, Pax &amp; Kara - 3rd March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/L9OEi7DpLF4" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1488819886334_clint_pax_kara_podcast_3rd_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1488819886334_clint_pax_kara_podcast_3rd_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 06 Mar 2017 17:06:30 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 3rd March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 3rd March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1336.216</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1488819886334_clint_pax_kara_podcast_3rd_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1488819886334_clint_pax_kara_podcast_3rd_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1488819886334_clint_pax_kara_podcast_3rd_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1488819886334_clint_pax_kara_podcast_3rd_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+
+        <!-- WEEK 10, 2017 -->
+
+        <item>
+            <title><![CDATA[George Breakfast - 6th March]]></title>
+            <description>Clint, Pax &amp; Kara - 6th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/jfLLIuU3b-o" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1488820006923_clint_pax_kara_podcast_6th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1488820006923_clint_pax_kara_podcast_6th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 06 Mar 2017 17:08:45 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 6th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 6th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1482.031</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1488820006923_clint_pax_kara_podcast_6th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1488820006923_clint_pax_kara_podcast_6th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1488820006923_clint_pax_kara_podcast_6th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1488820006923_clint_pax_kara_podcast_6th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 7th March]]></title>
+            <description>Clint, Pax &amp; Kara - 7th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/pYGzds7XD-4" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1488831284423_clint_pax_kara_podcast_7th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1488831284423_clint_pax_kara_podcast_7th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 06 Mar 2017 20:16:17 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 7th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 7th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1191.34</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1488831284423_clint_pax_kara_podcast_7th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1488831284423_clint_pax_kara_podcast_7th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1488831284423_clint_pax_kara_podcast_7th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1488831284423_clint_pax_kara_podcast_7th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 8th March]]></title>
+            <description>Clint, Pax &amp; Kara - 8th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/LFWhz4bKR4U" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1488918075080_clint_pax_kara_podcast_8th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1488918075080_clint_pax_kara_podcast_8th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Tue, 07 Mar 2017 20:23:02 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 8th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 8th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1309.127</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1488918075080_clint_pax_kara_podcast_8th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1488918075080_clint_pax_kara_podcast_8th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1488918075080_clint_pax_kara_podcast_8th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1488918075080_clint_pax_kara_podcast_8th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 9th March]]></title>
+            <description>Clint, Pax &amp; Kara - 9th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/WNonPTLDDfs" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1489003611798_clint_pax_kara_podcast_9th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1489003611798_clint_pax_kara_podcast_9th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Wed, 08 Mar 2017 20:09:09 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 9th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 9th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1712.353</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1489003611798_clint_pax_kara_podcast_9th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1489003611798_clint_pax_kara_podcast_9th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1489003611798_clint_pax_kara_podcast_9th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1489003611798_clint_pax_kara_podcast_9th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 10th March]]></title>
+            <description>Clint, Pax &amp; Kara - 10th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/dEYIiBuI8OA" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1489088887253_clint_pax_kara_podcast_10th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1489088887253_clint_pax_kara_podcast_10th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Thu, 09 Mar 2017 19:50:00 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 10th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 10th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1396.428</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1489088887253_clint_pax_kara_podcast_10th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1489088887253_clint_pax_kara_podcast_10th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1489088887253_clint_pax_kara_podcast_10th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1489088887253_clint_pax_kara_podcast_10th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+
+        <!-- WEEK 11, 2017 -->
+
+        <item>
+            <title><![CDATA[George Breakfast - 13th March]]></title>
+            <description>Clint, Pax &amp; Kara - 13th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/vxFiLm7QiXc" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1489351812097_clint_pax_kara_podcast_13th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1489351812097_clint_pax_kara_podcast_13th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Sun, 12 Mar 2017 20:51:24 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 13th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 13th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>884.01</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1489351812097_clint_pax_kara_podcast_13th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1489351812097_clint_pax_kara_podcast_13th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1489351812097_clint_pax_kara_podcast_13th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1489351812097_clint_pax_kara_podcast_13th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 14th March]]></title>
+            <description>Clint, Pax &amp; Kara - 14th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/QOGwXJy09H4" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1489436998246_clint_pax_kara_podcast_14th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1489436998246_clint_pax_kara_podcast_14th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 13 Mar 2017 20:31:40 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 14th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 14th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1296.065</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1489436998246_clint_pax_kara_podcast_14th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1489436998246_clint_pax_kara_podcast_14th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1489436998246_clint_pax_kara_podcast_14th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1489436998246_clint_pax_kara_podcast_14th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 15th March]]></title>
+            <description>Clint, Pax &amp; Kara - - 15th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/7DnUyf3r05o" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1489522917299_clint_pax_kara_podcast_15th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1489522917299_clint_pax_kara_podcast_15th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Tue, 14 Mar 2017 20:23:53 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - - 15th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - - 15th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1255.993</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1489522917299_clint_pax_kara_podcast_15th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1489522917299_clint_pax_kara_podcast_15th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1489522917299_clint_pax_kara_podcast_15th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1489522917299_clint_pax_kara_podcast_15th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 16th March]]></title>
+            <description>Clint, Pax &amp; Kara - 16th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/AVo2TKE20KQ" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1489610681656_clint_pax_kara_podcast_16th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1489610681656_clint_pax_kara_podcast_16th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Wed, 15 Mar 2017 20:47:20 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 16th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 16th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1966.785</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1489610681656_clint_pax_kara_podcast_16th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1489610681656_clint_pax_kara_podcast_16th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1489610681656_clint_pax_kara_podcast_16th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1489610681656_clint_pax_kara_podcast_16th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 17th March]]></title>
+            <description>Clint, Pax &amp; Kara - 17th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/-GryQmfbhe4" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1489695538078_clint_pax_kara_podcast_17th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1489695538078_clint_pax_kara_podcast_17th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Thu, 16 Mar 2017 20:20:49 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 17th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 17th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1327.543</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1489695538078_clint_pax_kara_podcast_17th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1489695538078_clint_pax_kara_podcast_17th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1489695538078_clint_pax_kara_podcast_17th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1489695538078_clint_pax_kara_podcast_17th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+
+        <!-- WEEK 12, 2017 -->
+
+        <item>
+            <title><![CDATA[George Breakfast - 20th March]]></title>
+            <description>Clint, Pax &amp; Kara - 20th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/3p5OI4Qlvfk" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1489955111218_clint_pax_kara_podcast_20th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1489955111218_clint_pax_kara_podcast_20th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Sun, 19 Mar 2017 20:26:52 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 20th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 20th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>948.689</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1489955111218_clint_pax_kara_podcast_20th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1489955111218_clint_pax_kara_podcast_20th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1489955111218_clint_pax_kara_podcast_20th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1489955111218_clint_pax_kara_podcast_20th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 21st March]]></title>
+            <description>Clint, Pax &amp; Kara - 21st March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/VN11jiPUE2Q" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1490040792320_clint_pax_kara_podcast_21st_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1490040792320_clint_pax_kara_podcast_21st_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 20 Mar 2017 20:14:57 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 21st March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 21st March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1317.146</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1490040792320_clint_pax_kara_podcast_21st_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1490040792320_clint_pax_kara_podcast_21st_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1490040792320_clint_pax_kara_podcast_21st_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1490040792320_clint_pax_kara_podcast_21st_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 22nd March]]></title>
+            <description>Clint,Pax &amp; Kara - 22nd March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/1vO0sstsHm8" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1490129041330_clint_pax_kara_podcast_22nd_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1490129041330_clint_pax_kara_podcast_22nd_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Tue, 21 Mar 2017 20:46:07 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint,Pax &amp; Kara - 22nd March</itunes:subtitle>
+            <itunes:summary>Clint,Pax &amp; Kara - 22nd March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1487.909</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1490129041330_clint_pax_kara_podcast_22nd_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1490129041330_clint_pax_kara_podcast_22nd_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1490129041330_clint_pax_kara_podcast_22nd_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1490129041330_clint_pax_kara_podcast_22nd_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 24th March]]></title>
+            <description>Clint, Pax &amp; Kara - 24th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/6NqSak2Lce4" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1490300260966_clint_pax_kara_podcast_24th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1490300260966_clint_pax_kara_podcast_24th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Thu, 23 Mar 2017 20:18:42 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 24th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 24th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>640.784</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1490300260966_clint_pax_kara_podcast_24th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1490300260966_clint_pax_kara_podcast_24th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1490300260966_clint_pax_kara_podcast_24th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1490300260966_clint_pax_kara_podcast_24th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+
+        <!-- WEEK 13, 2017 -->
+
+        <item>
+            <title><![CDATA[George Breakfast - 28th March]]></title>
+            <description>Clint, Pax &amp; Kara - 28th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/Ph5SUAb5MUk" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1490644816488_clint_pax_kara_podcast_28th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1490644816488_clint_pax_kara_podcast_28th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Mon, 27 Mar 2017 20:01:55 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 28th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 28th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1226.762</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1490644816488_clint_pax_kara_podcast_28th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1490644816488_clint_pax_kara_podcast_28th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1490644816488_clint_pax_kara_podcast_28th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1490644816488_clint_pax_kara_podcast_28th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 29th March]]></title>
+            <description>Clint, Pax &amp; Kara - 29th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/-ieX884Uq5A" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1490733145592_clint_pax_kara_podcast_29th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1490733145592_clint_pax_kara_podcast_29th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Tue, 28 Mar 2017 20:34:38 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 29th March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 29th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1503.086</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1490733145592_clint_pax_kara_podcast_29th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1490733145592_clint_pax_kara_podcast_29th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1490733145592_clint_pax_kara_podcast_29th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1490733145592_clint_pax_kara_podcast_29th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 30th March]]></title>
+            <description>George Breakfast - 30th March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/JswWh5bs6BE" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1490820026874_clint_pax_kara_podcast_30th_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1490820026874_clint_pax_kara_podcast_30th_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Wed, 29 Mar 2017 20:41:46 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>George Breakfast - 30th March</itunes:subtitle>
+            <itunes:summary>George Breakfast - 30th March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>949.838</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1490820026874_clint_pax_kara_podcast_30th_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1490820026874_clint_pax_kara_podcast_30th_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1490820026874_clint_pax_kara_podcast_30th_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1490820026874_clint_pax_kara_podcast_30th_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+        <item>
+            <title><![CDATA[George Breakfast - 31st March]]></title>
+            <description>Clint, Pax &amp; Kara - 31st March&lt;img
+                src="http://feeds.feedburner.com/~r/GeorgeBreakfast/~4/fqwrJoIwzJs" height="1" width="1" alt=""/&gt;
+            </description>
+            <link>
+                https://archive.org/download/clintpaxkara/1490907696546_clint_pax_kara_podcast_31st_march.mp3
+            </link>
+            <guid isPermaLink="false">
+                https://archive.org/download/clintpaxkara/1490907696546_clint_pax_kara_podcast_31st_march.mp3
+            </guid>
+            <dc:creator><![CDATA[MediaWorks NZ]]></dc:creator>
+
+            <pubDate>Thu, 30 Mar 2017 21:03:22 GMT</pubDate>
+            <itunes:author>Join Clint, Pax and Kara 6-10am weekdays on George FM.</itunes:author>
+            <itunes:subtitle>Clint, Pax &amp; Kara - 31st March</itunes:subtitle>
+            <itunes:summary>Clint, Pax &amp; Kara - 31st March</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>1242.88</itunes:duration>
+            <itunes:keywords>podcast</itunes:keywords>
+            <media:content
+                    url="https://archive.org/download/clintpaxkara/1490907696546_clint_pax_kara_podcast_31st_march.mp3"
+                    type="audio/mpeg"/>
+            <feedburner:origLink>
+                https://archive.org/download/clintpaxkara/1490907696546_clint_pax_kara_podcast_31st_march.mp3
+            </feedburner:origLink>
+            <enclosure
+                    url="https://archive.org/download/clintpaxkara/1490907696546_clint_pax_kara_podcast_31st_march.mp3"
+                    length="0" type="audio/mpeg"/>
+            <feedburner:origEnclosureLink>
+                https://archive.org/download/clintpaxkara/1490907696546_clint_pax_kara_podcast_31st_march.mp3
+            </feedburner:origEnclosureLink>
+        </item>
+
+        <!-- Weeks 14-15: no podcasts. WEEK 16, 2017 - clint, kara & tammy -->
+        <media:credit role="author">George FM</media:credit>
+        <media:rating>adult</media:rating>
+        <media:description type="plain">Join Clint, Pax and Kara 6-10am weekdays on George FM.</media:description>
+    </channel>
+</rss>

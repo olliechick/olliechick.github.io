@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" version="2.0"
+     xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <language>en-US</language>
+        <title>[Archive] Dom, Meg &amp; Randell Catchup Podcast - The Edge</title>
+        <itunes:subtitle>The Edge Breakfast with Dom, Meg and Randell [archive]</itunes:subtitle>
+        <link>http://www.theedge.co.nz/home/shows/jay-jay--dom---randell.html?ref=xml_podcast</link>
+        <description>Catchup with The Edge Breakfast with Dom, Meg and Randell: All the best bits every week with
+            podcast exclusive content and some extra fun stuff when it comes up. [archive]
+        </description>
+        <itunes:type>episodic</itunes:type>
+        <itunes:summary>Catchup with The Edge Breakfast with Dom, Meg and Randell: All the best bits every week with
+            podcast exclusive content and some extra fun stuff when it comes up. [archive]
+        </itunes:summary>
+        <itunes:owner>
+            <itunes:name>MediaWorks NZ</itunes:name>
+            <itunes:email>mediaworksnz@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>The Edge</itunes:author>
+        <copyright>2019 The Edge</copyright>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:category text="Comedy"></itunes:category>
+        <itunes:category text="Music"></itunes:category>
+        <itunes:image
+                href="https://olliechick.co.nz/podcasts/dommegrandell.jpg"/>
+        <image>
+            <url>https://olliechick.co.nz/podcasts/dommegrandell.jpg</url>
+            <title>Dom, Meg &amp; Randell Catchup Podcast - The Edge [archive]</title>
+            <link>http://www.theedge.co.nz/home/shows/jay-jay--dom---randell.html?ref=xml_podcast</link>
+        </image>
+
+
+
+
+
+        <!-- July -->
+        <item>
+            <title>Full Show Catchup - Friday 30 July 2021</title>
+            <itunes:title>Full Show Catchup - Friday 30 July 2021</itunes:title>
+            <description>It's Dom's last day at The Edge!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>It's Dom's last day at The Edge!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>It's Dom's last day at The Edge!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_30_July_2021_441125.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">18682fbd-61ba-40fc-89af-ad7401758a21</guid>
+            <omny:clipId>18682fbd-61ba-40fc-89af-ad7401758a21</omny:clipId>
+            <pubDate>Thu, 29 Jul 2021 23:06:31 +0000</pubDate>
+            <itunes:duration>5925</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_30_July_2021_441125.mp3"
+                                            length="94852041" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-friday-30-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Thursday 29 July 2021</title>
+            <itunes:title>DMR Only Fans - Thursday 29 July 2021</itunes:title>
+            <description>Behind the scenes chat from Dom, Meg and Randell!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Behind the scenes chat from Dom, Meg and Randell!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Behind the scenes chat from Dom, Meg and Randell!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/bdc28dbc-c432-4bf0-81fd-ad740002140c/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-thursday-29-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">bdc28dbc-c432-4bf0-81fd-ad740002140c</guid>
+            <omny:clipId>bdc28dbc-c432-4bf0-81fd-ad740002140c</omny:clipId>
+            <pubDate>Thu, 29 Jul 2021 00:10:14 +0000</pubDate>
+            <itunes:duration>788</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Thursday_29_July_2021_441113.mp3"
+                                            length="12656304" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-thursday-29-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Thursday 29 July 2021</title>
+            <itunes:title>Full Show Catchup - Thursday 29 July 2021</itunes:title>
+            <description>On today's show we've got Domfessions and is an average sex-life a good enough reason to break
+                up with someone?
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On today's show we've got Domfessions and is an average sex-life a good enough reason to break up with someone?</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On today's show we've got Domfessions and is an average sex-life a good enough reason to
+                break up with someone?
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Thursday_29_July_2021_441114.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">b9d73ed4-475d-4803-a34e-ad73016fd93f</guid>
+            <omny:clipId>b9d73ed4-475d-4803-a34e-ad73016fd93f</omny:clipId>
+            <pubDate>Thu, 29 Jul 2021 00:09:59 +0000</pubDate>
+            <itunes:duration>3412</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Thursday_29_July_2021_441114.mp3"
+                                            length="54636964" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-thursday-29-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Wednesday 28 July 2021</title>
+            <itunes:title>DMR Only Fans - Wednesday 28 July 2021</itunes:title>
+            <description>Dom opens up more about his announcement on today's show...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Dom opens up more about his announcement on today's show...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Dom opens up more about his announcement on today's show...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Wednesday_28_July_2021_441104.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">bfec7a2a-0b9d-4a12-8ee8-ad72017cb911</guid>
+            <omny:clipId>bfec7a2a-0b9d-4a12-8ee8-ad72017cb911</omny:clipId>
+            <pubDate>Tue, 27 Jul 2021 23:10:19 +0000</pubDate>
+            <itunes:duration>732</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Wednesday_28_July_2021_441104.mp3"
+                                            length="11761982" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-wednesday-28-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Wednesday 28 July 2021</title>
+            <itunes:title>Full Show Catchup - Wednesday 28 July 2021</itunes:title>
+            <description>Dom has some big news for us x
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Dom has some big news for us x</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Dom has some big news for us x
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Wednesday_28_July_2021_441105.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">35ecabf6-8d9f-4dd0-8554-ad72017b6a4e</guid>
+            <omny:clipId>35ecabf6-8d9f-4dd0-8554-ad72017b6a4e</omny:clipId>
+            <pubDate>Tue, 27 Jul 2021 23:08:26 +0000</pubDate>
+            <itunes:duration>3258</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Wednesday_28_July_2021_441105.mp3"
+                                            length="52181413" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-wednesday-28-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Tuesday 27 July 2021</title>
+            <itunes:title>DMR Only Fans - Tuesday 27 July 2021</itunes:title>
+            <description>All the best (And tbh... dirtiest) chat from Dom, Meg and Randell when they're off-air...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>All the best (And tbh... dirtiest) chat from Dom, Meg and Randell when they're off-air...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>All the best (And tbh... dirtiest) chat from Dom, Meg and Randell when they're off-air...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/b795b122-15f9-46f7-b629-ad710181e263/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-tuesday-27-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">b795b122-15f9-46f7-b629-ad710181e263</guid>
+            <omny:clipId>b795b122-15f9-46f7-b629-ad710181e263</omny:clipId>
+            <pubDate>Mon, 26 Jul 2021 23:30:49 +0000</pubDate>
+            <itunes:duration>480</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Tuesday_27_July_2021_441094.mp3"
+                                            length="7737759" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-tuesday-27-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Tuesday 27 July 2021</title>
+            <itunes:title>Full Show Catchup - Tuesday 27 July 2021</itunes:title>
+            <description>Fun show today!! We chat to Kiwi Olympic medalist Hayden Wilde and Meg hits up Randell's mum
+                about something she got up to over the weekend...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Fun show today!! We chat to Kiwi Olympic medalist Hayden Wilde and Meg hits up Randell's mum about something she got up to over the weekend...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Fun show today!! We chat to Kiwi Olympic medalist Hayden Wilde and Meg hits up Randell's mum
+                about something she got up to over the weekend...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Tuesday_27_July_2021_441093.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">f4747807-351c-4958-8f8c-ad710167a927</guid>
+            <omny:clipId>f4747807-351c-4958-8f8c-ad710167a927</omny:clipId>
+            <pubDate>Mon, 26 Jul 2021 22:27:54 +0000</pubDate>
+            <itunes:duration>3173</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Tuesday_27_July_2021_441093.mp3"
+                                            length="50823879" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-tuesday-27-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Monday 26 July 2021</title>
+            <itunes:title>Full Show Catchup - Monday 26 July 2021</itunes:title>
+            <description>We made #1 in a Buzzfeed article of the worst interviews of all time, Kiwi singer Benee is on
+                the show, we start a new game called the "No-Lympics" and someone stole stuff from Randell's house
+                during our mid-winter Christmas party
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>We made #1 in a Buzzfeed article of the worst interviews of all time, Kiwi singer Benee is on the show, we start a new game called the "No-Lympics" and someone stole stuff from Randell's house during our mid-winter Christmas party</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>We made #1 in a Buzzfeed article of the worst interviews of all time, Kiwi singer Benee is
+                on the show, we start a new game called the "No-Lympics" and someone stole stuff from Randell's house
+                during our mid-winter Christmas party
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Monday_26_July_2021_441038.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">2fe381ac-296c-43f7-9c5c-ad700178398e</guid>
+            <omny:clipId>2fe381ac-296c-43f7-9c5c-ad700178398e</omny:clipId>
+            <pubDate>Sun, 25 Jul 2021 23:07:56 +0000</pubDate>
+            <itunes:duration>3172</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Monday_26_July_2021_441038.mp3"
+                                            length="50806742" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-monday-26-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Monday 26 July 2021</title>
+            <itunes:title>DMR Only Fans - Monday 26 July 2021</itunes:title>
+            <description>Off-air chat from Dom, Meg and Randell that you won't hear on the actual radio show!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Off-air chat from Dom, Meg and Randell that you won't hear on the actual radio show!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Off-air chat from Dom, Meg and Randell that you won't hear on the actual radio show!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/0ae6a90b-e3b4-40ed-8135-ad70017b0dbf/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-monday-26-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">0ae6a90b-e3b4-40ed-8135-ad70017b0dbf</guid>
+            <omny:clipId>0ae6a90b-e3b4-40ed-8135-ad70017b0dbf</omny:clipId>
+            <pubDate>Sun, 25 Jul 2021 23:02:55 +0000</pubDate>
+            <itunes:duration>580</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Monday_26_July_2021_441039.mp3"
+                                            length="9334890" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-monday-26-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Friday 23 July 2021</title>
+            <itunes:title>Full Show Catchup - Friday 23 July 2021</itunes:title>
+            <description>Meg's birthday is this weekend so she gets to spin the Birthday Wheel (She has to make such an
+                awkward call...)
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Meg's birthday is this weekend so she gets to spin the Birthday Wheel (She has to make such an awkward call...)</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Meg's birthday is this weekend so she gets to spin the Birthday Wheel (She has to make such
+                an awkward call...)
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_23_July_2021_441026.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">228d9468-aa95-4271-8dc1-ad6d017181e4</guid>
+            <omny:clipId>228d9468-aa95-4271-8dc1-ad6d017181e4</omny:clipId>
+            <pubDate>Thu, 22 Jul 2021 22:37:02 +0000</pubDate>
+            <itunes:duration>2841</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_23_July_2021_441026.mp3"
+                                            length="45514125" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-friday-23-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Friday 23 July 2021</title>
+            <itunes:title>DMR Only Fans - Friday 23 July 2021</itunes:title>
+            <description>This is where Dom, Meg and Randell riff on whatever they want!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>This is where Dom, Meg and Randell riff on whatever they want!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>This is where Dom, Meg and Randell riff on whatever they want!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/e1966c6b-e774-4816-85cf-ad6d01729f4c/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-friday-23-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">e1966c6b-e774-4816-85cf-ad6d01729f4c</guid>
+            <omny:clipId>e1966c6b-e774-4816-85cf-ad6d01729f4c</omny:clipId>
+            <pubDate>Thu, 22 Jul 2021 22:33:00 +0000</pubDate>
+            <itunes:duration>657</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Friday_23_July_2021_441027.mp3"
+                                            length="10558147" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-friday-23-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Thursday 22 July 2021</title>
+            <itunes:title>Full Show Catchup - Thursday 22 July 2021</itunes:title>
+            <description>In this ep we've got Domfessions, one of the most loose unit callers we've had in ages and a
+                listener edition of Pass The Mic!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>In this ep we've got Domfessions, one of the most loose unit callers we've had in ages and a listener edition of Pass The Mic!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>In this ep we've got Domfessions, one of the most loose unit callers we've had in ages and a
+                listener edition of Pass The Mic!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Thursday_22_July_2021_441017.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">77fda1f7-c83f-43f2-9b84-ad6c018b723a</guid>
+            <omny:clipId>77fda1f7-c83f-43f2-9b84-ad6c018b723a</omny:clipId>
+            <pubDate>Thu, 22 Jul 2021 00:11:26 +0000</pubDate>
+            <itunes:duration>3285</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Thursday_22_July_2021_441017.mp3"
+                                            length="52614836" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-thursday-22-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Wednesday 21 July 2021</title>
+            <itunes:title>Full Show Catchup - Wednesday 21 July 2021</itunes:title>
+            <description>On today's podcast we've got Pass the Mic which is sooooo good today, our listener recruitment
+                drive and things are heating up for Randell's big Social Soccer game!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On today's podcast we've got Pass the Mic which is sooooo good today, our listener recruitment drive and things are heating up for Randell's big Social Soccer game!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On today's podcast we've got Pass the Mic which is sooooo good today, our listener
+                recruitment drive and things are heating up for Randell's big Social Soccer game!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Wednesday_21_July_2021_441005.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">192682f2-1614-4eee-8102-ad6b017f484c</guid>
+            <omny:clipId>192682f2-1614-4eee-8102-ad6b017f484c</omny:clipId>
+            <pubDate>Tue, 20 Jul 2021 23:28:40 +0000</pubDate>
+            <itunes:duration>3869</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Wednesday_21_July_2021_441005.mp3"
+                                            length="61964583" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-wednesday-21-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Wednesday 21 July 2021</title>
+            <itunes:title>DMR Only Fans - Wednesday 21 July 2021</itunes:title>
+            <description>In this podcast full of our off-air chat, we review Wednesday's show and is swearing to be cool
+                a bit dumb?
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>In this podcast full of our off-air chat, we review Wednesday's show and is swearing to be cool a bit dumb?</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>In this podcast full of our off-air chat, we review Wednesday's show and is swearing to be
+                cool a bit dumb?
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Wednesday_21_July_2021_441006.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">95d2384b-9092-46d5-9b09-ad6b018228b1</guid>
+            <omny:clipId>95d2384b-9092-46d5-9b09-ad6b018228b1</omny:clipId>
+            <pubDate>Tue, 20 Jul 2021 23:28:23 +0000</pubDate>
+            <itunes:duration>568</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Wednesday_21_July_2021_441006.mp3"
+                                            length="9133019" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-wednesday-21-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Tuesday 20 July 2021</title>
+            <itunes:title>DMR Only Fans - Tuesday 20 July 2021</itunes:title>
+            <description>The guys chat about their experiences giving birth (Dom and Randell's only go as far as
+                inhaling heaps of laughing gas hahaha) and Dom thinks he might have offended Steph from our day show...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>The guys chat about their experiences giving birth (Dom and Randell's only go as far as inhaling heaps of laughing gas hahaha) and Dom thinks he might have offended Steph from our day show...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>The guys chat about their experiences giving birth (Dom and Randell's only go as far as
+                inhaling heaps of laughing gas hahaha) and Dom thinks he might have offended Steph from our day show...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/3fc57de8-dffc-4ab2-b9ff-ad6b00034684/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-tuesday-20-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">3fc57de8-dffc-4ab2-b9ff-ad6b00034684</guid>
+            <omny:clipId>3fc57de8-dffc-4ab2-b9ff-ad6b00034684</omny:clipId>
+            <pubDate>Tue, 20 Jul 2021 00:15:57 +0000</pubDate>
+            <itunes:duration>1120</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Tuesday_20_July_2021_440995.mp3"
+                                            length="17976197" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-tuesday-20-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Tuesday 20 July 2021</title>
+            <itunes:title>Full Show Catchup - Tuesday 20 July 2021</itunes:title>
+            <description>On today's podcast, Dom feels what it's like to give birth, broken beds, and what's the thing
+                you should know but just don't?
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On today's podcast, Dom feels what it's like to give birth, broken beds, and what's the thing you should know but just don't?</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On today's podcast, Dom feels what it's like to give birth, broken beds, and what's the
+                thing you should know but just don't?
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Tuesday_20_July_2021_440996.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">0ca0f5c0-a760-409e-a7c1-ad6a0189cdb3</guid>
+            <omny:clipId>0ca0f5c0-a760-409e-a7c1-ad6a0189cdb3</omny:clipId>
+            <pubDate>Tue, 20 Jul 2021 00:05:33 +0000</pubDate>
+            <itunes:duration>2791</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Tuesday_20_July_2021_440996.mp3"
+                                            length="44709972" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-tuesday-20-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Monday 19 July 2021</title>
+            <itunes:title>DMR Only Fans - Monday 19 July 2021</itunes:title>
+            <description>Exclusive off-air chat from Dom, Meg and Randell - We address the beef a lot of you have with
+                Dom at the moment...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Exclusive off-air chat from Dom, Meg and Randell - We address the beef a lot of you have with Dom at the moment...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Exclusive off-air chat from Dom, Meg and Randell - We address the beef a lot of you have
+                with Dom at the moment...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/f85661fb-1a3e-4f0a-a86e-ad69017ac465/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-monday-19-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">f85661fb-1a3e-4f0a-a86e-ad69017ac465</guid>
+            <omny:clipId>f85661fb-1a3e-4f0a-a86e-ad69017ac465</omny:clipId>
+            <pubDate>Sun, 18 Jul 2021 23:14:41 +0000</pubDate>
+            <itunes:duration>614</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Monday_19_July_2021_440984.mp3"
+                                            length="9882835" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-monday-19-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Monday 19 July 2021</title>
+            <itunes:title>Full Show Catchup - Monday 19 July 2021</itunes:title>
+            <description>Today's podcast has one of our best singing performances EVER (Maybe not though...), If you
+                live at home; do you pay board?
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Today's podcast has one of our best singing performances EVER (Maybe not though...), If you live at home; do you pay board?&nbsp;</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Today's podcast has one of our best singing performances EVER (Maybe not though...), If you
+                live at home; do you pay board?
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Monday_19_July_2021_440982.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">8aae7c88-18c4-4ab4-a863-ad6901636fbb</guid>
+            <omny:clipId>8aae7c88-18c4-4ab4-a863-ad6901636fbb</omny:clipId>
+            <pubDate>Sun, 18 Jul 2021 22:58:59 +0000</pubDate>
+            <itunes:duration>3482</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Monday_19_July_2021_440982.mp3"
+                                            length="55763738" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-monday-19-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Friday 16 July 2021</title>
+            <itunes:title>DMR Only Fans - Friday 16 July 2021</itunes:title>
+            <description>It's a nice long one for you today! xx
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>It's a nice long one for you today! xx</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>It's a nice long one for you today! xx
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/0c49b25c-7382-45c1-b244-ad660183dae4/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-friday-16-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">0c49b25c-7382-45c1-b244-ad660183dae4</guid>
+            <omny:clipId>0c49b25c-7382-45c1-b244-ad660183dae4</omny:clipId>
+            <pubDate>Thu, 15 Jul 2021 23:37:22 +0000</pubDate>
+            <itunes:duration>1145</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Friday_16_July_2021_440962.mp3"
+                                            length="18367824" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-friday-16-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Friday 16 July 2021</title>
+            <itunes:title>Full Show Catchup - Friday 16 July 2021</itunes:title>
+            <description>Real fun show today! We chat the most adventurous place you've had sex, get all the best parts
+                from this week in the Producer's Diary, and Dom goes H.A.M on Talkback!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Real fun show today! We chat the most adventurous place you've had sex, get all the best parts from this week in the Producer's Diary, and Dom goes H.A.M on Talkback!&nbsp;</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Real fun show today! We chat the most adventurous place you've had sex, get all the best
+                parts from this week in the Producer's Diary, and Dom goes H.A.M on Talkback!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_16_July_2021_440963.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">6f07d4b2-4b95-4a86-8a01-ad660172f47a</guid>
+            <omny:clipId>6f07d4b2-4b95-4a86-8a01-ad660172f47a</omny:clipId>
+            <pubDate>Thu, 15 Jul 2021 23:32:24 +0000</pubDate>
+            <itunes:duration>3199</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_16_July_2021_440963.mp3"
+                                            length="51242256" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-friday-16-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Thursday 15 July 2021</title>
+            <itunes:title>DMR Only Fans - Thursday 15 July 2021</itunes:title>
+            <description>In today's one we chat Meg's average pregnancy cravings and people not caring about Randell's
+                stories...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>In today's one we chat Meg's average pregnancy cravings and people not caring about Randell's stories...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>In today's one we chat Meg's average pregnancy cravings and people not caring about
+                Randell's stories...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/66489174-40db-4088-abc0-ad65016e9989/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-thursday-15-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">66489174-40db-4088-abc0-ad65016e9989</guid>
+            <omny:clipId>66489174-40db-4088-abc0-ad65016e9989</omny:clipId>
+            <pubDate>Wed, 14 Jul 2021 22:49:08 +0000</pubDate>
+            <itunes:duration>798</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Thursday_15_July_2021_440954.mp3"
+                                            length="12827777" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-thursday-15-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Thursday 15 2021</title>
+            <itunes:title>Full Show Catchup - Thursday 15 2021</itunes:title>
+            <description>On today's podcast, Dom drops an F bomb, Domfessions and we wanna get a massive crowd to
+                Randell's social soccer game...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On today's podcast, Dom drops an F bomb, Domfessions and we wanna get a massive crowd to Randell's social soccer game...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On today's podcast, Dom drops an F bomb, Domfessions and we wanna get a massive crowd to
+                Randell's social soccer game...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/36b9a992-3081-4d15-8c58-ad65015fe276/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/full-show-catchup-thursday-15-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">36b9a992-3081-4d15-8c58-ad65015fe276</guid>
+            <omny:clipId>36b9a992-3081-4d15-8c58-ad65015fe276</omny:clipId>
+            <pubDate>Wed, 14 Jul 2021 21:40:32 +0000</pubDate>
+            <itunes:duration>3498</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Thursday_15_2021_440951.mp3"
+                                            length="56016182" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-thursday-15-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Wednesday 14 July 2021</title>
+            <itunes:title>DMR Only Fans - Wednesday 14 July 2021</itunes:title>
+            <description>This one gets pretty loose, enjoy!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>This one gets pretty loose, enjoy!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>This one gets pretty loose, enjoy!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Wednesday_14_July_2021_440943.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1e4df2cf-b80d-4d73-a248-ad6401783f7d</guid>
+            <omny:clipId>1e4df2cf-b80d-4d73-a248-ad6401783f7d</omny:clipId>
+            <pubDate>Tue, 13 Jul 2021 22:51:16 +0000</pubDate>
+            <itunes:duration>748</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Wednesday_14_July_2021_440943.mp3"
+                                            length="12023096" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-wednesday-14-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Wednesday 14 July 2021</title>
+            <itunes:title>Full Show Catchup - Wednesday 14 July 2021</itunes:title>
+            <description>On today's podcast we chat to someone who paid nearly $300k to go to space... and is STILL
+                waiting to go!! Dom has a legit disease and Pass the Mic is real good today!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>On today's podcast we chat to someone who paid nearly $300k to go to space... and is STILL waiting to go!! Dom has a legit disease and Pass the Mic is real good today!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>On today's podcast we chat to someone who paid nearly $300k to go to space... and is STILL
+                waiting to go!! Dom has a legit disease and Pass the Mic is real good today!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Wednesday_14_July_2021_440942.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">cf512b94-9fe1-4ed8-bbe5-ad64015e4a32</guid>
+            <omny:clipId>cf512b94-9fe1-4ed8-bbe5-ad64015e4a32</omny:clipId>
+            <pubDate>Tue, 13 Jul 2021 21:39:27 +0000</pubDate>
+            <itunes:duration>4008</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Wednesday_14_July_2021_440942.mp3"
+                                            length="64173080" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-wednesday-14-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Tuesday 13 July 2021</title>
+            <itunes:title>DMR Only Fans - Tuesday 13 July 2021</itunes:title>
+            <description>Chat from Dom, Meg and Randell that yoou don't get to hear on the radio!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Chat from Dom, Meg and Randell that yoou don't get to hear on the radio!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Chat from Dom, Meg and Randell that yoou don't get to hear on the radio!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/15e26daa-8377-4d5b-95cd-ad640004bbb5/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-tuesday-13-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">15e26daa-8377-4d5b-95cd-ad640004bbb5</guid>
+            <omny:clipId>15e26daa-8377-4d5b-95cd-ad640004bbb5</omny:clipId>
+            <pubDate>Tue, 13 Jul 2021 00:32:35 +0000</pubDate>
+            <itunes:duration>671</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Tuesday_13_July_2021_440935.mp3"
+                                            length="10793987" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-tuesday-13-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Tuesday 13 July 2021</title>
+            <itunes:title>Full Show Catchup - Tuesday 13 July 2021</itunes:title>
+            <description>Dom's barista skills are finally put to the test when he makes a coffee for the FIRST TIME
+                EVER!! Plus poor old Meg pissed herself :(
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Dom's barista skills are finally put to the test when he makes a coffee for the FIRST TIME EVER!! Plus poor old Meg pissed herself :(</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Dom's barista skills are finally put to the test when he makes a coffee for the FIRST TIME
+                EVER!! Plus poor old Meg pissed herself :(
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Tuesday_13_July_2021_440936.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">a546cbd4-1527-4100-a521-ad640001452e</guid>
+            <omny:clipId>a546cbd4-1527-4100-a521-ad640001452e</omny:clipId>
+            <pubDate>Tue, 13 Jul 2021 00:21:39 +0000</pubDate>
+            <itunes:duration>3930</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Tuesday_13_July_2021_440936.mp3"
+                                            length="62932993" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-tuesday-13-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Monday 12 July 2021</title>
+            <itunes:title>Full Show Catchup - Monday 12 July 2021</itunes:title>
+            <description>Big show today!! Randell gets punished in the worst way possible for him... While he's watching
+                the football :(
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Big show today!! Randell gets punished in the worst way possible for him... While he's watching the football :(</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Big show today!! Randell gets punished in the worst way possible for him... While he's
+                watching the football :(
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Monday_12_July_2021_440924.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1b8ab5de-1d5b-47c2-aad6-ad6201719b94</guid>
+            <omny:clipId>1b8ab5de-1d5b-47c2-aad6-ad6201719b94</omny:clipId>
+            <pubDate>Sun, 11 Jul 2021 22:55:10 +0000</pubDate>
+            <itunes:duration>3461</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Monday_12_July_2021_440924.mp3"
+                                            length="55426445" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-monday-12-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Monday 12 July 2021</title>
+            <itunes:title>DMR Only Fans - Monday 12 July 2021</itunes:title>
+            <description>Meg's finally broken a 3 month long drought...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Meg's finally broken a 3 month long drought...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Meg's finally broken a 3 month long drought...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/7555ed20-9c95-45fd-98fa-ad62017883e7/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-monday-12-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">7555ed20-9c95-45fd-98fa-ad62017883e7</guid>
+            <omny:clipId>7555ed20-9c95-45fd-98fa-ad62017883e7</omny:clipId>
+            <pubDate>Sun, 11 Jul 2021 22:54:00 +0000</pubDate>
+            <itunes:duration>539</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Monday_12_July_2021_440925.mp3"
+                                            length="8673261" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-monday-12-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Friday 9 July 2021</title>
+            <itunes:title>Full Show Catchup - Friday 9 July 2021</itunes:title>
+            <description>We chat about poor old Intern Cal's parents going to flat viewings for him (How did your
+                parents make it clear they wanted you to move out??) and what's the tiny thing your mates will NEVER let
+                you live down?
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>We chat about poor old Intern Cal's parents going to flat viewings for him (How did your parents make it clear they wanted you to move out??) and what's the tiny thing your mates will NEVER let you live down?</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>We chat about poor old Intern Cal's parents going to flat viewings for him (How did your
+                parents make it clear they wanted you to move out??) and what's the tiny thing your mates will NEVER let
+                you live down?
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_9_July_2021_440913.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">744a07ad-5140-4083-bec0-ad5f0175b7ce</guid>
+            <omny:clipId>744a07ad-5140-4083-bec0-ad5f0175b7ce</omny:clipId>
+            <pubDate>Thu, 08 Jul 2021 22:53:15 +0000</pubDate>
+            <itunes:duration>2990</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_9_July_2021_440913.mp3"
+                                            length="47894819" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-friday-9-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Friday 9 July 2021</title>
+            <itunes:title>DMR Only Fans - Friday 9 July 2021</itunes:title>
+            <description>You might have heard us do 'Pass the Mic', where we lowkey just roast eachother, and in this ep
+                we can flipping it and doing a compliment version?
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>You might have heard us do 'Pass the Mic', where we lowkey just roast eachother, and in this ep we can flipping it and doing a compliment version?</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>You might have heard us do 'Pass the Mic', where we lowkey just roast eachother, and in this
+                ep we can flipping it and doing a compliment version?
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/d8f9c17d-00cd-46ab-9719-ad5f0177dabd/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-friday-9-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">d8f9c17d-00cd-46ab-9719-ad5f0177dabd</guid>
+            <omny:clipId>d8f9c17d-00cd-46ab-9719-ad5f0177dabd</omny:clipId>
+            <pubDate>Thu, 08 Jul 2021 22:53:02 +0000</pubDate>
+            <itunes:duration>1039</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Friday_9_July_2021_440914.mp3"
+                                            length="16669237" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-friday-9-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Thursday 8 July 2021</title>
+            <itunes:title>Full Show Catchup - Thursday 8 July 2021</itunes:title>
+            <description>MEG'S BACK!! It's a fun podcast this one - We have an intervention for Dom, Domfessions is
+                suuuper juicy this week and we've got a special edition of Pass the Mic for Meg...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>MEG'S BACK!! It's a fun podcast this one - We have an intervention for Dom, Domfessions is suuuper juicy this week and we've got a special edition of Pass the Mic for Meg...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>MEG'S BACK!! It's a fun podcast this one - We have an intervention for Dom, Domfessions is
+                suuuper juicy this week and we've got a special edition of Pass the Mic for Meg...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Thursday_8_July_2021_440906.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">7e051aa9-bd92-4ca6-9c46-ad5e01733769</guid>
+            <omny:clipId>7e051aa9-bd92-4ca6-9c46-ad5e01733769</omny:clipId>
+            <pubDate>Wed, 07 Jul 2021 22:41:07 +0000</pubDate>
+            <itunes:duration>4065</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Thursday_8_July_2021_440906.mp3"
+                                            length="65091334" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-thursday-8-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Thursday 8 July 2021</title>
+            <itunes:title>DMR Only Fans - Thursday 8 July 2021</itunes:title>
+            <description>In this ep we roast Randell for his article telling people how to save money hahaha
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>In this ep we roast Randell for his article telling people how to save money hahaha</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>In this ep we roast Randell for his article telling people how to save money hahaha
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/70f4e911-d813-461b-916d-ad5e0174b7c4/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-thursday-8-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">70f4e911-d813-461b-916d-ad5e0174b7c4</guid>
+            <omny:clipId>70f4e911-d813-461b-916d-ad5e0174b7c4</omny:clipId>
+            <pubDate>Wed, 07 Jul 2021 22:39:14 +0000</pubDate>
+            <itunes:duration>376</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Thursday_8_July_2021_440907.mp3"
+                                            length="6063524" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-thursday-8-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Wednesday 7 July 2021</title>
+            <itunes:title>Full Show Catchup - Wednesday 7 July 2021</itunes:title>
+            <description>How long do you reckon you could survive locked in a freezer? Our Producer Phippsy gives it a
+                go, Pass the Mic is back and you'll crack up when you hear how many VHS tapes a guy in our office STILL
+                owns...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>How long do you reckon you could survive locked in a freezer? Our Producer Phippsy gives it a go, Pass the Mic is back and you'll crack up when you hear how many VHS tapes a guy in our office STILL owns...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>How long do you reckon you could survive locked in a freezer? Our Producer Phippsy gives it
+                a go, Pass the Mic is back and you'll crack up when you hear how many VHS tapes a guy in our office
+                STILL owns...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Wednesday_7_July_2021_440899.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">863ee404-483e-4837-bab1-ad5d017dafee</guid>
+            <omny:clipId>863ee404-483e-4837-bab1-ad5d017dafee</omny:clipId>
+            <pubDate>Tue, 06 Jul 2021 23:24:40 +0000</pubDate>
+            <itunes:duration>3566</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Wednesday_7_July_2021_440899.mp3"
+                                            length="57116674" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-wednesday-7-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Wednesday 7 July 2021</title>
+            <itunes:title>DMR Only Fans - Wednesday 7 July 2021</itunes:title>
+            <description>Off-air chat from Dom, Meg and Randell that you won't hear on the radio - In this ep we're
+                chatting about eloping...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Off-air chat from Dom, Meg and Randell that you won't hear on the radio - In this ep we're chatting about eloping...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Off-air chat from Dom, Meg and Randell that you won't hear on the radio - In this ep we're
+                chatting about eloping...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/95e6117e-b73b-4ba9-8a87-ad5d017f369e/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-wednesday-7-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">95e6117e-b73b-4ba9-8a87-ad5d017f369e</guid>
+            <omny:clipId>95e6117e-b73b-4ba9-8a87-ad5d017f369e</omny:clipId>
+            <pubDate>Tue, 06 Jul 2021 23:17:31 +0000</pubDate>
+            <itunes:duration>579</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Wednesday_7_July_2021_440900.mp3"
+                                            length="9319845" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-wednesday-7-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Tuesday 6 July 2021</title>
+            <itunes:title>DMR Only Fans - Tuesday 6 July 2021</itunes:title>
+            <description>See omnystudio.com/listener for privacy information.</description>
+            <content:encoded>
+                <![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>See omnystudio.com/listener for privacy information.</itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/4d880866-0de5-4b94-84c3-ad5d000aaa36/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-tuesday-6-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">4d880866-0de5-4b94-84c3-ad5d000aaa36</guid>
+            <omny:clipId>4d880866-0de5-4b94-84c3-ad5d000aaa36</omny:clipId>
+            <pubDate>Tue, 06 Jul 2021 00:43:05 +0000</pubDate>
+            <itunes:duration>718</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Tuesday_6_July_2021_440892.mp3"
+                                            length="11540043" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-tuesday-6-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Tuesday 6 July 2021</title>
+            <itunes:title>Full Show Catchup - Tuesday 6 July 2021</itunes:title>
+            <description>In this ep, Dom rips people out in open line talkback and at the end we reveal Producer
+                Phippsy's punishment for never wearing the beanie that Dom got him...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>In this ep, Dom rips people out in open line talkback and at the end we reveal Producer Phippsy's punishment for never wearing the beanie that Dom got him...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>In this ep, Dom rips people out in open line talkback and at the end we reveal Producer
+                Phippsy's punishment for never wearing the beanie that Dom got him...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Tuesday_6_July_2021_440893.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">642df56e-715a-4a2b-9f42-ad5d00057573</guid>
+            <omny:clipId>642df56e-715a-4a2b-9f42-ad5d00057573</omny:clipId>
+            <pubDate>Tue, 06 Jul 2021 00:40:32 +0000</pubDate>
+            <itunes:duration>3069</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Tuesday_6_July_2021_440893.mp3"
+                                            length="49150788" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-tuesday-6-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Monday 5 July 2021</title>
+            <itunes:title>DMR Only Fans - Monday 5 July 2021</itunes:title>
+            <description>Exclusive chat from Dom, Meg and Randell that you'll only hear on this podcast!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Exclusive chat from Dom, Meg and Randell that you'll only hear on this podcast!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Exclusive chat from Dom, Meg and Randell that you'll only hear on this podcast!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/3c8a5fdc-77c6-4972-bd81-ad5c000a6912/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-monday-5-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">3c8a5fdc-77c6-4972-bd81-ad5c000a6912</guid>
+            <omny:clipId>3c8a5fdc-77c6-4972-bd81-ad5c000a6912</omny:clipId>
+            <pubDate>Mon, 05 Jul 2021 00:39:51 +0000</pubDate>
+            <itunes:duration>531</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Monday_5_July_2021_440882.mp3"
+                                            length="8540767" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-monday-5-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Monday 5 July 2021</title>
+            <itunes:title>Full Show Catchup - Monday 5 July 2021</itunes:title>
+            <description>See omnystudio.com/listener for privacy information.</description>
+            <content:encoded>
+                <![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>See omnystudio.com/listener for privacy information.</itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Monday_5_July_2021_440883.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">90dd9d45-7393-4cef-a0cc-ad5b018b7faa</guid>
+            <omny:clipId>90dd9d45-7393-4cef-a0cc-ad5b018b7faa</omny:clipId>
+            <pubDate>Mon, 05 Jul 2021 00:39:25 +0000</pubDate>
+            <itunes:duration>3244</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Monday_5_July_2021_440883.mp3"
+                                            length="51956855" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-monday-5-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Friday 2 July 2021</title>
+            <itunes:title>DMR Only Fans - Friday 2 July 2021</itunes:title>
+            <description>This one gets a little naughty... A great look into what things are like when the mics are off
+                haha
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>This one gets a little naughty... A great look into what things are like when the mics are off haha</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>This one gets a little naughty... A great look into what things are like when the mics are
+                off haha
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/78f16479-a65a-4fa4-953a-ad5801822764/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-friday-2-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">78f16479-a65a-4fa4-953a-ad5801822764</guid>
+            <omny:clipId>78f16479-a65a-4fa4-953a-ad5801822764</omny:clipId>
+            <pubDate>Thu, 01 Jul 2021 23:27:18 +0000</pubDate>
+            <itunes:duration>597</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Friday_2_July_2021_440865.mp3"
+                                            length="9603109" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-friday-2-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Friday 2 July 2021</title>
+            <itunes:title>Full Show Catchup - Friday 2 July 2021</itunes:title>
+            <description>It's a big one! We've got Kiwi rapper Kings in studio to decide once and for all who's got the
+                best rap game, What's the worst lie you've ever told? And catch up on any stuff you've missed in the
+                producer's diary!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>It's a big one! We've got Kiwi rapper Kings in studio to decide once and for all who's got the best rap game, What's the worst lie you've ever told? And catch up on any stuff you've missed in the producer's diary!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>It's a big one! We've got Kiwi rapper Kings in studio to decide once and for all who's got
+                the best rap game, What's the worst lie you've ever told? And catch up on any stuff you've missed in the
+                producer's diary!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_2_July_2021_440866.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">ed85a653-1a17-4ed7-9579-ad58018117d7</guid>
+            <omny:clipId>ed85a653-1a17-4ed7-9579-ad58018117d7</omny:clipId>
+            <pubDate>Thu, 01 Jul 2021 23:27:07 +0000</pubDate>
+            <itunes:duration>2580</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Friday_2_July_2021_440866.mp3"
+                                            length="41329976" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-friday-2-july-2021</link>
+        </item>
+        <item>
+            <title>DMR Only Fans - Thursday 1 July 2021</title>
+            <itunes:title>DMR Only Fans - Thursday 1 July 2021</itunes:title>
+            <description>Adele isn't even a computer, Dr Dre isn't even a doctor... We try to keep it going...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Adele isn't even a computer, Dr Dre isn't even a doctor... We try to keep it going...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Adele isn't even a computer, Dr Dre isn't even a doctor... We try to keep it going...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/9136d32a-6196-4c24-91fb-ad58017c2ff1/audio.mp3?utm_source=Podcast&amp;in_playlist=13bdeba3-062b-4bf8-aaa6-a9a601541b80"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-thursday-1-july-2021/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">9136d32a-6196-4c24-91fb-ad58017c2ff1</guid>
+            <omny:clipId>9136d32a-6196-4c24-91fb-ad58017c2ff1</omny:clipId>
+            <pubDate>Thu, 01 Jul 2021 23:07:49 +0000</pubDate>
+            <itunes:duration>409</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/DMR_Only_Fans_-_Thursday_1_July_2021_440867.mp3"
+                                            length="6602164" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/dmr-only-fans-thursday-1-july-2021</link>
+        </item>
+        <item>
+            <title>Full Show Catchup - Thursday 1 July 2021</title>
+            <itunes:title>Full Show Catchup - Thursday 1 July 2021</itunes:title>
+            <description>Listener Angela has a story in Domefessions which might be one of the most shocking we've had,
+                Randell had a bad time trying to control his kids and we practice our raps for our Ed Sheeran song!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Listener Angela has a story in Domefessions which might be one of the most shocking we've had, Randell had a bad time trying to control his kids and we practice our raps for our Ed Sheeran song!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Listener Angela has a story in Domefessions which might be one of the most shocking we've
+                had, Randell had a bad time trying to control his kids and we practice our raps for our Ed Sheeran song!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"/>
+            <media:content
+                    url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Thursday_1_July_2021_440868.mp3"
+                    type="audio/mpeg">
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/94898afb-1f01-4081-82f8-a9a601541b77/13bdeba3-062b-4bf8-aaa6-a9a601541b80/image.jpg?t=1627595951&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">ee2a5743-3dd9-4e68-9a08-ad58017a77e8</guid>
+            <omny:clipId>ee2a5743-3dd9-4e68-9a08-ad58017a77e8</omny:clipId>
+            <pubDate>Thu, 01 Jul 2021 23:05:53 +0000</pubDate>
+            <itunes:duration>3620</itunes:duration>
+            <enclosure
+                                            url="https://archive.org/download/dom-meg-randell-podcast-july-2021/Full_Show_Catchup_-_Thursday_1_July_2021_440868.mp3"
+                                            length="57973531" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-breakfast/full-show-catchup-thursday-1-july-2021</link>
+        </item>
+
+
+
+
+
+
+    </channel>
+</rss>

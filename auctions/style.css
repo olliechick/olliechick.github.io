@@ -1,0 +1,35 @@
+/* ================= Top of each page ================= */
+
+/* The title of each page */
+h1.title {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top:20px;
+}
+
+/* The taskbar at the top of each page */
+.taskbar {
+  background-color: #e0faff; /* light sky blue */
+  display: block;
+  text-decoration: none;
+  width: auto;
+  margin-bottom: 10px;
+  padding: 12px;
+}
+
+/* ================= Auction list ================= */
+
+/* A listing of an auction */
+.auctionListItem {
+  font-size: 20px;
+}
+
+/* The image of an auction */
+.auctionListPhoto {
+  max-height: 200px;
+  max-width: 200px
+}
+
+.bidAmount {
+  font-size: 150%;
+}

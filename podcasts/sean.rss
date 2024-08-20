@@ -1,0 +1,1800 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/"
+     xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/"
+     version="2.0">
+    <channel>
+        <language>en-US</language>
+        <atom:link rel="self" type="application/rss+xml"
+                   href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/podcast.rss"/>
+        <atom:link rel="next" type="application/rss+xml"
+                   href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/podcast.rss?page=2"/>
+        <atom:link rel="first" type="application/rss+xml"
+                   href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/podcast.rss?page=1"/>
+        <atom:link rel="last" type="application/rss+xml"
+                   href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/podcast.rss?page=3"/>
+        <title>[Archive] The Edge Nights Catchup Podcast</title>
+        <itunes:subtitle>All the best bits every week with podcast exclusive content and some extra fun stuff when it
+            comes up. [archive]
+        </itunes:subtitle>
+        <link>http://www.theedge.co.nz/home/shows/the-edge-30.html</link>
+        <description>
+            <![CDATA[<p>Hear all the best bits from Edge nights host and resident DJ Sean Hill every week, with podcast exclusive content and full length interviews with the biggest celebs! Listen live 7pm-midnight, weeknights on The Edge. [archive]&nbsp;</p>]]></description>
+        <itunes:type>episodic</itunes:type>
+        <itunes:summary>Hear all the best bits from Edge nights host and resident DJ Sean Hill every week, with podcast
+            exclusive content and full length interviews with the biggest celebs! Listen live 7pm-midnight, weeknights
+            on The Edge. [archive]
+        </itunes:summary>
+        <itunes:owner>
+            <itunes:name>MediaWorks NZ</itunes:name>
+            <itunes:email>podcasts@rova.nz</itunes:email>
+        </itunes:owner>
+        <itunes:author>rova | The Edge</itunes:author>
+        <copyright>2021 MediaWorks 040745</copyright>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:category text="Comedy"></itunes:category>
+        <itunes:category text="Music"></itunes:category>
+        <itunes:image
+                href="https://olliechick.co.nz/podcasts/sean.jpg"/>
+        <image>
+            <url>
+                https://olliechick.co.nz/podcasts/sean.jpg
+            </url>
+            <title>The Edge Nights Catchup Podcast [archive]</title>
+            <link>http://www.theedge.co.nz/home/shows/the-edge-30.html</link>
+        </image>
+
+        <!-- view-source:https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/podcast.rss -->
+
+        <!-- 2023 -->
+
+        <!-- March -->
+        <item>
+            <title>SYCCO Joins the show!</title>
+            <itunes:title>SYCCO Joins the show!</itunes:title>
+            <description>
+                <![CDATA[<p>Hot off her collab with FLUME and performance at Electric ave, Aussie artis Sycco Joins me</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Hot off her collab with FLUME and performance at Electric ave, Aussie artis Sycco Joins me</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/cbbec245-81d5-4eae-bb79-afc70034e7c7/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/sean-and-soph/sycco-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1681164238&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">cbbec245-81d5-4eae-bb79-afc70034e7c7</guid>
+            <omny:clipId>cbbec245-81d5-4eae-bb79-afc70034e7c7</omny:clipId>
+            <pubDate>Thu, 16 Mar 2023 03:14:12 +0000</pubDate>
+            <itunes:duration>332</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/cbbec245-81d5-4eae-bb79-afc70034e7c7/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="5382846" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/sycco-joins-the-show</link>
+        </item>
+        <item>
+            <title>Sean Hill live in the mix</title>
+            <itunes:title>Sean Hill live in the mix</itunes:title>
+            <description>
+                <![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1e59a625-f53c-4bee-9ba1-afc700346d09/image.jpg?t=1678936328&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1e59a625-f53c-4bee-9ba1-afc700346d09/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/sean-and-soph/sean-hill-live-in-the-mix-4/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1e59a625-f53c-4bee-9ba1-afc700346d09/image.jpg?t=1678936328&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1e59a625-f53c-4bee-9ba1-afc700346d09</guid>
+            <omny:clipId>1e59a625-f53c-4bee-9ba1-afc700346d09</omny:clipId>
+            <pubDate>Thu, 16 Mar 2023 03:13:05 +0000</pubDate>
+            <itunes:duration>674</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1e59a625-f53c-4bee-9ba1-afc700346d09/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="10838167" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/sean-and-soph/sean-hill-live-in-the-mix-4</link>
+        </item>
+        <item>
+            <title>Sean Hill live in the mix</title>
+            <itunes:title>Sean Hill live in the mix</itunes:title>
+            <description>
+                <![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1c0e89a1-ebd1-421d-b5b8-afc0004bfa46/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix-3/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1c0e89a1-ebd1-421d-b5b8-afc0004bfa46</guid>
+            <omny:clipId>1c0e89a1-ebd1-421d-b5b8-afc0004bfa46</omny:clipId>
+            <pubDate>Thu, 09 Mar 2023 04:38:32 +0000</pubDate>
+            <itunes:duration>581</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1c0e89a1-ebd1-421d-b5b8-afc0004bfa46/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="9370180" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix-3</link>
+        </item>
+        <item>
+            <title>Yung Gravy Joins The Show...</title>
+            <itunes:title>Yung Gravy Joins The Show...</itunes:title>
+            <description>
+                <![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/07f46dc6-942a-419f-94c8-afc0004b4079/image.jpg?t=1678336534&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/07f46dc6-942a-419f-94c8-afc0004b4079/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/yung-gravy-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/07f46dc6-942a-419f-94c8-afc0004b4079/image.jpg?t=1678336534&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">07f46dc6-942a-419f-94c8-afc0004b4079</guid>
+            <omny:clipId>07f46dc6-942a-419f-94c8-afc0004b4079</omny:clipId>
+            <pubDate>Thu, 09 Mar 2023 04:36:15 +0000</pubDate>
+            <itunes:duration>645</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/07f46dc6-942a-419f-94c8-afc0004b4079/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="10385270" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/yung-gravy-joins-the-show</link>
+        </item>
+        <item>
+            <title>Wilkinson Joins The Show</title>
+            <itunes:title>Wilkinson Joins The Show</itunes:title>
+            <description>
+                <![CDATA[<p>UK DJ Wilkinson joins me to review my backstreet boys remix...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>UK DJ Wilkinson joins me to review my backstreet boys remix...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/527c5838-81e2-4870-a878-afb6005876da/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/wilkinson-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">527c5838-81e2-4870-a878-afb6005876da</guid>
+            <omny:clipId>527c5838-81e2-4870-a878-afb6005876da</omny:clipId>
+            <pubDate>Wed, 01 Mar 2023 01:01:22 +0000</pubDate>
+            <itunes:duration>500</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/527c5838-81e2-4870-a878-afb6005876da/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="8075342" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/wilkinson-joins-the-show</link>
+        </item>
+
+        <!-- February -->
+        <item>
+            <title>Flume Joins The Show</title>
+            <itunes:title>Flume Joins The Show</itunes:title>
+            <description>
+                <![CDATA[<p>Aussie DJ/Producer Flume joins me to try aussie/kiwi snacks, chat Music and some fast facts.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Aussie DJ/Producer Flume joins me to try aussie/kiwi snacks, chat Music and some fast facts.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/559e0ea3-74bf-4a1f-a394-afb60057a969/image.jpg?t=1677475288&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/559e0ea3-74bf-4a1f-a394-afb60057a969/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/flume-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/559e0ea3-74bf-4a1f-a394-afb60057a969/image.jpg?t=1677475288&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">559e0ea3-74bf-4a1f-a394-afb60057a969</guid>
+            <omny:clipId>559e0ea3-74bf-4a1f-a394-afb60057a969</omny:clipId>
+            <pubDate>Mon, 27 Feb 2023 05:22:27 +0000</pubDate>
+            <itunes:duration>641</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/559e0ea3-74bf-4a1f-a394-afb60057a969/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="10320601" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/flume-joins-the-show</link>
+        </item>
+        <item>
+            <title>Sean Hill Live In The Mix</title>
+            <itunes:title>Sean Hill Live In The Mix</itunes:title>
+            <description>
+                <![CDATA[<p>A replay of my Friday Morning Mix on the Edge Brekkie, Enjoy x</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>A replay of my Friday Morning Mix on the Edge Brekkie, Enjoy x</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/57c30033-307e-4a99-8ee3-afb60027d707/image.jpg?t=1677464769&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/57c30033-307e-4a99-8ee3-afb60027d707/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix-2/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/57c30033-307e-4a99-8ee3-afb60027d707/image.jpg?t=1677464769&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">57c30033-307e-4a99-8ee3-afb60027d707</guid>
+            <omny:clipId>57c30033-307e-4a99-8ee3-afb60027d707</omny:clipId>
+            <pubDate>Mon, 27 Feb 2023 02:27:20 +0000</pubDate>
+            <itunes:duration>705</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/57c30033-307e-4a99-8ee3-afb60027d707/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="11320492" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix-2</link>
+        </item>
+        <item>
+            <title>Sean Hill live in the Mix (Rihanna Special)</title>
+            <itunes:title>Sean Hill live in the Mix (Rihanna Special)</itunes:title>
+            <description>
+                <![CDATA[<p>This week i recreated Rihanna's Superbowl Halftime set, the same tracks, in the same order, with my own flare. enjoy x</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>This week i recreated Rihanna's Superbowl Halftime set, the same tracks, in the same order, with my own flare. enjoy x</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3b821bb0-f862-4f35-b1b2-afaa00371677/image.jpg?t=1676431343&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3b821bb0-f862-4f35-b1b2-afaa00371677/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix-rihanna-special/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3b821bb0-f862-4f35-b1b2-afaa00371677/image.jpg?t=1676431343&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">3b821bb0-f862-4f35-b1b2-afaa00371677</guid>
+            <omny:clipId>3b821bb0-f862-4f35-b1b2-afaa00371677</omny:clipId>
+            <pubDate>Wed, 15 Feb 2023 03:23:19 +0000</pubDate>
+            <itunes:duration>611</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3b821bb0-f862-4f35-b1b2-afaa00371677/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="9815439" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix-rihanna-special</link>
+        </item>
+        <item>
+            <title>Sean Hill live in the mix</title>
+            <itunes:title>Sean Hill live in the mix</itunes:title>
+            <description>
+                <![CDATA[<p>A replay of my weekly Friday morning mix x</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>A replay of my weekly Friday morning mix x</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/bd059e3f-7e69-4ef9-805c-afa800218f08/image.jpg?t=1676253791&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/bd059e3f-7e69-4ef9-805c-afa800218f08/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix-1/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/bd059e3f-7e69-4ef9-805c-afa800218f08/image.jpg?t=1676253791&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">bd059e3f-7e69-4ef9-805c-afa800218f08</guid>
+            <omny:clipId>bd059e3f-7e69-4ef9-805c-afa800218f08</omny:clipId>
+            <pubDate>Mon, 13 Feb 2023 02:03:51 +0000</pubDate>
+            <itunes:duration>577</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/bd059e3f-7e69-4ef9-805c-afa800218f08/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="9275023" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix-1</link>
+        </item>
+        <item>
+            <title>Kaylee Bell Joins The Show...</title>
+            <itunes:title>Kaylee Bell Joins The Show...</itunes:title>
+            <description>
+                <![CDATA[<p>Country artist Kaylee Bell joins me to discuss opening for Ed Sheeran on his NZ Tour</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Country artist Kaylee Bell joins me to discuss opening for Ed Sheeran on his NZ Tour</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/e5b27c1a-8ae7-4b1a-ab87-af9d004a43f3/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/kaylee-bell-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">e5b27c1a-8ae7-4b1a-ab87-af9d004a43f3</guid>
+            <omny:clipId>e5b27c1a-8ae7-4b1a-ab87-af9d004a43f3</omny:clipId>
+            <pubDate>Thu, 02 Feb 2023 04:31:46 +0000</pubDate>
+            <itunes:duration>265</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/e5b27c1a-8ae7-4b1a-ab87-af9d004a43f3/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="4302429" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/kaylee-bell-joins-the-show</link>
+        </item>
+        <item>
+            <title>The Worst Idea Of All Time</title>
+            <itunes:title>The Worst Idea Of All Time</itunes:title>
+            <description>
+                <![CDATA[<p>Comedian's Tim Batt and Guy Montgomery join me to discuss what its like watching the same terrible movie 52 times...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Comedian's Tim Batt and Guy Montgomery join me to discuss what its like watching the same terrible movie 52 times...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ef59d186-032d-4f87-9507-af9d00492221/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-worst-idea-of-all-time/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">ef59d186-032d-4f87-9507-af9d00492221</guid>
+            <omny:clipId>ef59d186-032d-4f87-9507-af9d00492221</omny:clipId>
+            <pubDate>Thu, 02 Feb 2023 04:31:14 +0000</pubDate>
+            <itunes:duration>863</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ef59d186-032d-4f87-9507-af9d00492221/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="13871184" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-worst-idea-of-all-time</link>
+        </item>
+
+        <!-- January -->
+        <item>
+            <title>Sean Hill live in the mix</title>
+            <itunes:title>Sean Hill live in the mix</itunes:title>
+            <description>
+                <![CDATA[<p>A replay of my weekly Friday morning mix x</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>A replay of my weekly Friday morning mix x</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1341048e-f760-4b35-b9ec-af960054b53e/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1341048e-f760-4b35-b9ec-af960054b53e</guid>
+            <omny:clipId>1341048e-f760-4b35-b9ec-af960054b53e</omny:clipId>
+            <pubDate>Thu, 26 Jan 2023 05:11:46 +0000</pubDate>
+            <itunes:duration>552</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1341048e-f760-4b35-b9ec-af960054b53e/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="8907917" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/sean-hill-live-in-the-mix</link>
+        </item>
+
+        <!-- 2022 -->
+        <item>
+            <title>Hailee Steinfeld Joins The Show...</title>
+            <itunes:title>Hailee Steinfeld Joins The Show...</itunes:title>
+            <description>
+                <![CDATA[<p>Caught up with Hailee Steinfeld about her new track 'Coast', Reworking old songs in 2022 and juggling actress and popstar life.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>Caught up with Hailee Steinfeld about her new track 'Coast', Reworking old songs in 2022 and juggling actress and popstar life.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/4633ddf1-6a84-45a8-a217-af030073659c/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/hailee-steinfeld-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">4633ddf1-6a84-45a8-a217-af030073659c</guid>
+            <omny:clipId>4633ddf1-6a84-45a8-a217-af030073659c</omny:clipId>
+            <pubDate>Thu, 01 Sep 2022 07:03:19 +0000</pubDate>
+            <itunes:duration>324</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/4633ddf1-6a84-45a8-a217-af030073659c/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="5259033" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/hailee-steinfeld-joins-the-show</link>
+        </item>
+        <item>
+            <title>Dillon Francis Joins The Show...</title>
+            <itunes:title>Dillon Francis Joins The Show...</itunes:title>
+            <description>
+                <![CDATA[<p>International DJ, Tiktoker and comedian Dillon Francis joins the show!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+            <content:encoded>
+                <![CDATA[<p>International DJ, Tiktoker and comedian Dillon Francis joins the show!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/2149e4b2-3332-451c-b281-aed10075783f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/dillon-francis-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/programs/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/image.jpg?t=1660780667&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">2149e4b2-3332-451c-b281-aed10075783f</guid>
+            <omny:clipId>2149e4b2-3332-451c-b281-aed10075783f</omny:clipId>
+            <pubDate>Wed, 13 Jul 2022 07:10:14 +0000</pubDate>
+            <itunes:duration>384</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/2149e4b2-3332-451c-b281-aed10075783f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="6176100" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/dillon-francis-joins-the-show</link>
+        </item>
+        <item>
+            <title>Urzila Carlson Joins The Show...</title>
+            <itunes:title>Urzila Carlson Joins The Show...</itunes:title>
+            <description>Comedian Urzila Carlson swings by to talk netflix specials being ruined by other comedians, and
+                her comedy origin story
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Comedian Urzila Carlson swings by to talk netflix specials being ruined by other comedians, and her comedy origin story</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Comedian Urzila Carlson swings by to talk netflix specials being ruined by other comedians,
+                and her comedy origin story
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5af3a45e-7298-4934-ae44-aeb6003cafde/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/urzila-carlson-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">5af3a45e-7298-4934-ae44-aeb6003cafde</guid>
+            <omny:clipId>5af3a45e-7298-4934-ae44-aeb6003cafde</omny:clipId>
+            <pubDate>Thu, 16 Jun 2022 03:43:37 +0000</pubDate>
+            <itunes:duration>455</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/5af3a45e-7298-4934-ae44-aeb6003cafde/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="7302500" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/urzila-carlson-joins-the-show</link>
+        </item>
+        <item>
+            <title>DUKE AND JONES Join the show!</title>
+            <itunes:title>DUKE AND JONES Join the show!</itunes:title>
+            <description>The legendary DJ's behind the viral tiktok song 'My Money Don't Jiggle Jiggle' with Louis
+                Theroux
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>The legendary DJ's behind the viral tiktok song 'My Money Don't Jiggle Jiggle' with Louis Theroux&nbsp;</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>The legendary DJ's behind the viral tiktok song 'My Money Don't Jiggle Jiggle' with Louis
+                Theroux
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/2505be61-acb1-4688-a0c6-aea7002c41bd/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/duke-and-jones-join-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">2505be61-acb1-4688-a0c6-aea7002c41bd</guid>
+            <omny:clipId>2505be61-acb1-4688-a0c6-aea7002c41bd</omny:clipId>
+            <pubDate>Wed, 01 Jun 2022 02:44:01 +0000</pubDate>
+            <itunes:duration>377</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/2505be61-acb1-4688-a0c6-aea7002c41bd/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="6067010" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/duke-and-jones-join-the-show</link>
+        </item>
+        <item>
+            <title>BENEE Joins The Show....</title>
+            <itunes:title>BENEE Joins The Show....</itunes:title>
+            <description>Benee joins me to chat 'Beach Boy', high school years, and play a few games...
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Benee joins me to chat 'Beach Boy', high school years, and play a few games...</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Benee joins me to chat 'Beach Boy', high school years, and play a few games...
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/59ed7c2b-98f2-473d-9a19-ae36006a8c22/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/benee-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">59ed7c2b-98f2-473d-9a19-ae36006a8c22</guid>
+            <omny:clipId>59ed7c2b-98f2-473d-9a19-ae36006a8c22</omny:clipId>
+            <pubDate>Tue, 08 Feb 2022 06:30:24 +0000</pubDate>
+            <itunes:duration>690</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/59ed7c2b-98f2-473d-9a19-ae36006a8c22/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="11075828" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/benee-joins-the-show</link>
+        </item>
+        <item>
+            <title>Broods Join The Show...</title>
+            <itunes:title>Broods Join The Show...</itunes:title>
+            <description>Broods stop past to chat live shows, meeting celeb's and their new single 'Like a woman'
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Broods stop past to chat live shows, meeting celeb's and their new single 'Like a woman'</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Broods stop past to chat live shows, meeting celeb's and their new single 'Like a woman'
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/aa0c5e8e-c35e-433e-b85e-ae300059134c/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/broods-join-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">aa0c5e8e-c35e-433e-b85e-ae300059134c</guid>
+            <omny:clipId>aa0c5e8e-c35e-433e-b85e-ae300059134c</omny:clipId>
+            <pubDate>Wed, 02 Feb 2022 05:26:00 +0000</pubDate>
+            <itunes:duration>685</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/aa0c5e8e-c35e-433e-b85e-ae300059134c/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="10980532" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/broods-join-the-show</link>
+        </item>
+        <item>
+            <title>Charlie Puth Joins The Show.....</title>
+            <itunes:title>Charlie Puth Joins The Show.....</itunes:title>
+            <description>Charlie Puth Joins the show to chat writing for 'The Kid Laroi', Having perfect pitch, and his
+                new track 'Light Switch'.
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Charlie Puth Joins the show to chat writing for 'The Kid Laroi', Having perfect pitch, and his new track 'Light Switch'.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Charlie Puth Joins the show to chat writing for 'The Kid Laroi', Having perfect pitch, and
+                his new track 'Light Switch'.
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/50cb41f3-5ea8-4a5c-be17-ae270065509f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/charlie-puth-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">50cb41f3-5ea8-4a5c-be17-ae270065509f</guid>
+            <omny:clipId>50cb41f3-5ea8-4a5c-be17-ae270065509f</omny:clipId>
+            <pubDate>Mon, 24 Jan 2022 06:12:00 +0000</pubDate>
+            <itunes:duration>431</itunes:duration>
+            <enclosure
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/50cb41f3-5ea8-4a5c-be17-ae270065509f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2"
+                    length="6918814" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/charlie-puth-joins-the-show</link>
+        </item>
+
+        <!-- 2021 -->
+
+        <!-- 10 Feb - 4 Mar -->
+        <item>
+            <title>Daily Music News Feed // 04.03</title>
+            <itunes:title>Daily Music News Feed // 04.03</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/88e3bddf-bfd2-45e3-8836-ace1005c554d/image.jpg?t=1614836198&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/88e3bddf-bfd2-45e3-8836-ace1005c554d/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614836208"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-04-03/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/88e3bddf-bfd2-45e3-8836-ace1005c554d/image.jpg?t=1614836198&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">88e3bddf-bfd2-45e3-8836-ace1005c554d</guid>
+            <omny:clipId>88e3bddf-bfd2-45e3-8836-ace1005c554d</omny:clipId>
+            <pubDate>Thu, 04 Mar 2021 05:36:48 +0000</pubDate>
+            <itunes:duration>89</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_04_03.mp3"
+                    length="1464892" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-04-03</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 03.03</title>
+            <itunes:title>Daily Music News Feed // 03.03</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/f3b75e69-12d4-4ef7-9d37-ace1005c2439/image.jpg?t=1614836160&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/f3b75e69-12d4-4ef7-9d37-ace1005c2439/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614836174"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-03-03/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/f3b75e69-12d4-4ef7-9d37-ace1005c2439/image.jpg?t=1614836160&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">f3b75e69-12d4-4ef7-9d37-ace1005c2439</guid>
+            <omny:clipId>f3b75e69-12d4-4ef7-9d37-ace1005c2439</omny:clipId>
+            <pubDate>Thu, 04 Mar 2021 05:36:14 +0000</pubDate>
+            <itunes:duration>71</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_03_03.mp3"
+                    length="1182770" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-03-03</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 02.03</title>
+            <itunes:title>Daily Music News Feed // 02.03</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/fc337923-4231-4ee1-bbcf-ace1005be6ee/image.jpg?t=1614836120&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/fc337923-4231-4ee1-bbcf-ace1005be6ee/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614836134"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-02-03/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/fc337923-4231-4ee1-bbcf-ace1005be6ee/image.jpg?t=1614836120&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">fc337923-4231-4ee1-bbcf-ace1005be6ee</guid>
+            <omny:clipId>fc337923-4231-4ee1-bbcf-ace1005be6ee</omny:clipId>
+            <pubDate>Thu, 04 Mar 2021 05:35:35 +0000</pubDate>
+            <itunes:duration>88</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_02_03.mp3"
+                    length="1443994" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-02-03</link>
+        </item>
+        <item>
+            <title>The Kid Laroi Joins The Show!!</title>
+            <itunes:title>The Kid Laroi Joins The Show!!</itunes:title>
+            <description>The Kid Laroi zoom calls in from his home in the US
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>The Kid Laroi zoom calls in from his home in the US</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>The Kid Laroi zoom calls in from his home in the US
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3b512c8c-7359-41a6-bddf-ace0007678ef/image.jpg?t=1614755799&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3b512c8c-7359-41a6-bddf-ace0007678ef/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614755844"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/the-kid-laroi-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3b512c8c-7359-41a6-bddf-ace0007678ef/image.jpg?t=1614755799&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">3b512c8c-7359-41a6-bddf-ace0007678ef</guid>
+            <omny:clipId>3b512c8c-7359-41a6-bddf-ace0007678ef</omny:clipId>
+            <pubDate>Wed, 03 Mar 2021 07:17:24 +0000</pubDate>
+            <itunes:duration>272</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/The_Kid_Laroi_Joins_The_Show!!.mp3"
+                    length="4413288" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/the-kid-laroi-joins-the-show</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 01.03</title>
+            <itunes:title>Daily Music News Feed // 01.03</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/365e7f4f-49fa-49a1-a281-acdf0054031b/image.jpg?t=1614661599&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/365e7f4f-49fa-49a1-a281-acdf0054031b/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614661611"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-01-03/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/365e7f4f-49fa-49a1-a281-acdf0054031b/image.jpg?t=1614661599&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">365e7f4f-49fa-49a1-a281-acdf0054031b</guid>
+            <omny:clipId>365e7f4f-49fa-49a1-a281-acdf0054031b</omny:clipId>
+            <pubDate>Tue, 02 Mar 2021 05:06:51 +0000</pubDate>
+            <itunes:duration>80</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_01_03.mp3"
+                    length="1319442" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-01-03</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 25.02</title>
+            <itunes:title>Daily Music News Feed // 25.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/b2255d0c-bc85-453f-b105-acdf0053cee4/image.jpg?t=1614661537&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/b2255d0c-bc85-453f-b105-acdf0053cee4/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614661546"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-25-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/b2255d0c-bc85-453f-b105-acdf0053cee4/image.jpg?t=1614661537&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">b2255d0c-bc85-453f-b105-acdf0053cee4</guid>
+            <omny:clipId>b2255d0c-bc85-453f-b105-acdf0053cee4</omny:clipId>
+            <pubDate>Tue, 02 Mar 2021 05:05:46 +0000</pubDate>
+            <itunes:duration>60</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_25_02.mp3"
+                    length="995942" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-25-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 24.02</title>
+            <itunes:title>Daily Music News Feed // 24.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/51a5bb91-fbb8-4e35-a45a-acdf00539aa2/image.jpg?t=1614661496&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/51a5bb91-fbb8-4e35-a45a-acdf00539aa2/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614661509"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-24-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/51a5bb91-fbb8-4e35-a45a-acdf00539aa2/image.jpg?t=1614661496&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">51a5bb91-fbb8-4e35-a45a-acdf00539aa2</guid>
+            <omny:clipId>51a5bb91-fbb8-4e35-a45a-acdf00539aa2</omny:clipId>
+            <pubDate>Tue, 02 Mar 2021 05:05:09 +0000</pubDate>
+            <itunes:duration>87</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_24_02.mp3"
+                    length="1438143" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-24-02</link>
+        </item>
+        <item>
+            <title>Amy Shark Joins The Show!</title>
+            <itunes:title>Amy Shark Joins The Show!</itunes:title>
+            <description>Amy Shark zoom called in to tell the crazy story about how she ended up working on her latest
+                song with Ed Sheeran and having dinner at his house!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Amy Shark zoom called in to tell the crazy story about how she ended up working on her latest song with Ed Sheeran and having dinner at his house!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Amy Shark zoom called in to tell the crazy story about how she ended up working on her
+                latest song with Ed Sheeran and having dinner at his house!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ec9ebfa7-87e2-4e57-8aca-acd80093cdd7/image.jpg?t=1614071045&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ec9ebfa7-87e2-4e57-8aca-acd80093cdd7/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614071075"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/amy-shark-joins-the-show/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/ec9ebfa7-87e2-4e57-8aca-acd80093cdd7/image.jpg?t=1614071045&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">ec9ebfa7-87e2-4e57-8aca-acd80093cdd7</guid>
+            <omny:clipId>ec9ebfa7-87e2-4e57-8aca-acd80093cdd7</omny:clipId>
+            <pubDate>Tue, 23 Feb 2021 09:04:35 +0000</pubDate>
+            <itunes:duration>366</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Amy_Shark_Joins_The_Show!.mp3"
+                    length="5892844" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/amy-shark-joins-the-show</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 23.02</title>
+            <itunes:title>Daily Music News Feed // 23.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c7f8c0f0-6398-4efa-bb42-acd8005d744a/image.jpg?t=1614058867&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c7f8c0f0-6398-4efa-bb42-acd8005d744a/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614058877"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-23-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c7f8c0f0-6398-4efa-bb42-acd8005d744a/image.jpg?t=1614058867&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">c7f8c0f0-6398-4efa-bb42-acd8005d744a</guid>
+            <omny:clipId>c7f8c0f0-6398-4efa-bb42-acd8005d744a</omny:clipId>
+            <pubDate>Tue, 23 Feb 2021 05:41:17 +0000</pubDate>
+            <itunes:duration>64</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_23_02.mp3"
+                    length="1054874" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-23-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 22.02</title>
+            <itunes:title>Daily Music News Feed // 22.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1dacaa29-52f5-43f8-ac79-acd8001b91f3/image.jpg?t=1614044484&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1dacaa29-52f5-43f8-ac79-acd8001b91f3/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614044515"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-22-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1dacaa29-52f5-43f8-ac79-acd8001b91f3/image.jpg?t=1614044484&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1dacaa29-52f5-43f8-ac79-acd8001b91f3</guid>
+            <omny:clipId>1dacaa29-52f5-43f8-ac79-acd8001b91f3</omny:clipId>
+            <pubDate>Tue, 23 Feb 2021 01:41:55 +0000</pubDate>
+            <itunes:duration>91</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_22_02.mp3"
+                    length="1496239" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-22-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 19.02</title>
+            <itunes:title>Daily Music News Feed // 19.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9f84f724-c1f0-41bb-8bd7-acd8001b63a8/image.jpg?t=1614044412&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9f84f724-c1f0-41bb-8bd7-acd8001b63a8/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614044421"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-19-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/9f84f724-c1f0-41bb-8bd7-acd8001b63a8/image.jpg?t=1614044412&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">9f84f724-c1f0-41bb-8bd7-acd8001b63a8</guid>
+            <omny:clipId>9f84f724-c1f0-41bb-8bd7-acd8001b63a8</omny:clipId>
+            <pubDate>Tue, 23 Feb 2021 01:40:21 +0000</pubDate>
+            <itunes:duration>92</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_19_02.mp3"
+                    length="1515465" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-19-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 18.02</title>
+            <itunes:title>Daily Music News Feed // 18.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c45c4af9-ac69-4c59-9179-acd8001b2cdb/image.jpg?t=1614044371&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c45c4af9-ac69-4c59-9179-acd8001b2cdb/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1614044381"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-18-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c45c4af9-ac69-4c59-9179-acd8001b2cdb/image.jpg?t=1614044371&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">c45c4af9-ac69-4c59-9179-acd8001b2cdb</guid>
+            <omny:clipId>c45c4af9-ac69-4c59-9179-acd8001b2cdb</omny:clipId>
+            <pubDate>Tue, 23 Feb 2021 01:39:41 +0000</pubDate>
+            <itunes:duration>119</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_18_02.mp3"
+                    length="1950561" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-18-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 17.02</title>
+            <itunes:title>Daily Music News Feed // 17.02</itunes:title>
+            <description>Bebe Rexha is writing music for BTS, Olivia Rodrigo shouts out SZA annnd Katy Perry enjoys an
+                anniversary &lt;3
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Bebe Rexha is writing music for BTS, Olivia Rodrigo shouts out SZA annnd Katy Perry enjoys an anniversary &lt;3</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Bebe Rexha is writing music for BTS, Olivia Rodrigo shouts out SZA annnd Katy Perry enjoys
+                an anniversary &lt;3
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1ebe1171-5b3b-400b-8b27-acd20077eb7a/image.jpg?t=1613546295&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1ebe1171-5b3b-400b-8b27-acd20077eb7a/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1613546304"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-17-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/1ebe1171-5b3b-400b-8b27-acd20077eb7a/image.jpg?t=1613546295&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">1ebe1171-5b3b-400b-8b27-acd20077eb7a</guid>
+            <omny:clipId>1ebe1171-5b3b-400b-8b27-acd20077eb7a</omny:clipId>
+            <pubDate>Wed, 17 Feb 2021 07:18:24 +0000</pubDate>
+            <itunes:duration>81</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_17_02.mp3"
+                    length="1331981" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-17-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 16.02</title>
+            <itunes:title>Daily Music News Feed // 16.02</itunes:title>
+            <description>Its Meg the Stallions Bday! Britney has a new doco, and Ari confirms a date for new music!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Its Meg the Stallions Bday! Britney has a new doco, and Ari confirms a date for new music!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Its Meg the Stallions Bday! Britney has a new doco, and Ari confirms a date for new music!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3d3eed1f-5ec5-49bd-a054-acd1005d33b8/image.jpg?t=1613454029&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3d3eed1f-5ec5-49bd-a054-acd1005d33b8/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1613454036"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-16-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3d3eed1f-5ec5-49bd-a054-acd1005d33b8/image.jpg?t=1613454029&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">3d3eed1f-5ec5-49bd-a054-acd1005d33b8</guid>
+            <omny:clipId>3d3eed1f-5ec5-49bd-a054-acd1005d33b8</omny:clipId>
+            <pubDate>Tue, 16 Feb 2021 05:40:36 +0000</pubDate>
+            <itunes:duration>77</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_16_02.mp3"
+                    length="1272631" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-16-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 15.02</title>
+            <itunes:title>Daily Music News Feed // 15.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/6c563b1f-5626-46aa-8fd9-acd1005ca985/image.jpg?t=1613453882&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/6c563b1f-5626-46aa-8fd9-acd1005ca985/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1613453890"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-15-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/6c563b1f-5626-46aa-8fd9-acd1005ca985/image.jpg?t=1613453882&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">6c563b1f-5626-46aa-8fd9-acd1005ca985</guid>
+            <omny:clipId>6c563b1f-5626-46aa-8fd9-acd1005ca985</omny:clipId>
+            <pubDate>Tue, 16 Feb 2021 05:38:00 +0000</pubDate>
+            <itunes:duration>76</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_15_02.mp3"
+                    length="1256331" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-15-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 12.02</title>
+            <itunes:title>Daily Music News Feed // 12.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/554afa1a-2ca4-498f-bbe5-acd1005c4bef/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1613453821"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-12-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/playlist/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2/image.jpg?t=1608244206&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">554afa1a-2ca4-498f-bbe5-acd1005c4bef</guid>
+            <omny:clipId>554afa1a-2ca4-498f-bbe5-acd1005c4bef</omny:clipId>
+            <pubDate>Tue, 16 Feb 2021 05:37:01 +0000</pubDate>
+            <itunes:duration>89</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_12_02.mp3"
+                    length="1444800" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-12-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 11.02</title>
+            <itunes:title>Daily Music News Feed // 11.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/22451a51-b6c7-4ca0-be5a-acd1005c2259/image.jpg?t=1613453751&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/22451a51-b6c7-4ca0-be5a-acd1005c2259/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1613453758"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-11-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/22451a51-b6c7-4ca0-be5a-acd1005c2259/image.jpg?t=1613453751&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">22451a51-b6c7-4ca0-be5a-acd1005c2259</guid>
+            <omny:clipId>22451a51-b6c7-4ca0-be5a-acd1005c2259</omny:clipId>
+            <pubDate>Tue, 16 Feb 2021 05:35:58 +0000</pubDate>
+            <itunes:duration>79</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_11_02.mp3"
+                    length="1296455" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-11-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 10.02</title>
+            <itunes:title>Daily Music News Feed // 10.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/afcd184c-f34a-4c3f-b90a-acd1005ab4cb/image.jpg?t=1613453477&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/afcd184c-f34a-4c3f-b90a-acd1005ab4cb/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1613453491"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-10-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/afcd184c-f34a-4c3f-b90a-acd1005ab4cb/image.jpg?t=1613453477&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">afcd184c-f34a-4c3f-b90a-acd1005ab4cb</guid>
+            <omny:clipId>afcd184c-f34a-4c3f-b90a-acd1005ab4cb</omny:clipId>
+            <pubDate>Tue, 16 Feb 2021 05:31:00 +0000</pubDate>
+            <itunes:duration>85</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_10_02.mp3"
+                    length="1394257" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-10-02</link>
+        </item>
+
+        <!-- 14 Jan - 9 Feb -->
+        <item>
+            <title>Daily Music News Feed // 9.02</title>
+            <itunes:title>Daily Music News Feed // 9.02</itunes:title>
+            <description>The Weeknd slays his superbowl performance, Miley shouts Brittney out, and WAP has a new
+                remix....
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>The Weeknd slays his superbowl performance, Miley shouts Brittney out, and WAP has a new remix....</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>The Weeknd slays his superbowl performance, Miley shouts Brittney out, and WAP has a new
+                remix....
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/99138fe6-dce7-4c67-aa58-acca0078c07f/image.jpg?t=1612855258&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/99138fe6-dce7-4c67-aa58-acca0078c07f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1612855273"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-9-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/99138fe6-dce7-4c67-aa58-acca0078c07f/image.jpg?t=1612855258&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">99138fe6-dce7-4c67-aa58-acca0078c07f</guid>
+            <omny:clipId>99138fe6-dce7-4c67-aa58-acca0078c07f</omny:clipId>
+            <pubDate>Tue, 09 Feb 2021 07:21:00 +0000</pubDate>
+            <itunes:duration>100</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_9_02.mp3"
+                    length="1641270" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-9-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 5.02</title>
+            <itunes:title>Daily Music News Feed // 5.02</itunes:title>
+            <description>Jared Leto tells a story about a young Billie Eilish ans Finneas performing for him and Leo
+                DiCaprio at a private house party, annnd Sabrina Carpenter spills the beans on whether 'Skin' is
+                actually about Olivia Rodrigo!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Jared Leto tells a story about a young Billie Eilish ans Finneas performing for him and Leo DiCaprio at a private house party, annnd Sabrina Carpenter spills the beans on whether 'Skin' is actually about Olivia Rodrigo!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Jared Leto tells a story about a young Billie Eilish ans Finneas performing for him and Leo
+                DiCaprio at a private house party, annnd Sabrina Carpenter spills the beans on whether 'Skin' is
+                actually about Olivia Rodrigo!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c13d377d-fce7-42bb-aa3f-acc60078981f/image.jpg?t=1612509721&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c13d377d-fce7-42bb-aa3f-acc60078981f/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1612509734"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-5-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/c13d377d-fce7-42bb-aa3f-acc60078981f/image.jpg?t=1612509721&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">c13d377d-fce7-42bb-aa3f-acc60078981f</guid>
+            <omny:clipId>c13d377d-fce7-42bb-aa3f-acc60078981f</omny:clipId>
+            <pubDate>Fri, 05 Feb 2021 07:22:14 +0000</pubDate>
+            <itunes:duration>102</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_5_02.mp3"
+                    length="1669691" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-5-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 4.02</title>
+            <itunes:title>Daily Music News Feed // 4.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/e5a1d409-78df-4f94-b2d5-acc60078977b/image.jpg?t=1612509611&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/e5a1d409-78df-4f94-b2d5-acc60078977b/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1612509620"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-4-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/e5a1d409-78df-4f94-b2d5-acc60078977b/image.jpg?t=1612509611&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">e5a1d409-78df-4f94-b2d5-acc60078977b</guid>
+            <omny:clipId>e5a1d409-78df-4f94-b2d5-acc60078977b</omny:clipId>
+            <pubDate>Fri, 05 Feb 2021 07:20:20 +0000</pubDate>
+            <itunes:duration>83</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_4_02.mp3"
+                    length="1372104" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-4-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 03.02</title>
+            <itunes:title>Daily Music News Feed // 03.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3961865c-a365-4b13-8e52-acc400871588/image.jpg?t=1612340138&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3961865c-a365-4b13-8e52-acc400871588/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1612340149"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-03-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3961865c-a365-4b13-8e52-acc400871588/image.jpg?t=1612340138&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">3961865c-a365-4b13-8e52-acc400871588</guid>
+            <omny:clipId>3961865c-a365-4b13-8e52-acc400871588</omny:clipId>
+            <pubDate>Wed, 03 Feb 2021 08:15:49 +0000</pubDate>
+            <itunes:duration>108</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_03_02.mp3"
+                    length="1762061" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-03-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 02.02</title>
+            <itunes:title>Daily Music News Feed // 02.02</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/a88104dc-e693-4628-adea-acc400871587/image.jpg?t=1612340128&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/a88104dc-e693-4628-adea-acc400871587/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1612340139"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-02-02/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/a88104dc-e693-4628-adea-acc400871587/image.jpg?t=1612340128&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">a88104dc-e693-4628-adea-acc400871587</guid>
+            <omny:clipId>a88104dc-e693-4628-adea-acc400871587</omny:clipId>
+            <pubDate>Wed, 03 Feb 2021 08:15:39 +0000</pubDate>
+            <itunes:duration>71</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_02_02.mp3"
+                    length="1181098" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-02-02</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 28.01</title>
+            <itunes:title>Daily Music News Feed // 28.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/73563623-89be-4896-b3ab-acbf005e453a/image.jpg?t=1611899080&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/73563623-89be-4896-b3ab-acbf005e453a/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611899126"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-28-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/73563623-89be-4896-b3ab-acbf005e453a/image.jpg?t=1611899080&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">73563623-89be-4896-b3ab-acbf005e453a</guid>
+            <omny:clipId>73563623-89be-4896-b3ab-acbf005e453a</omny:clipId>
+            <pubDate>Fri, 29 Jan 2021 05:45:26 +0000</pubDate>
+            <itunes:duration>109</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_28_01.mp3"
+                    length="1777944" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-28-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 29.01</title>
+            <itunes:title>Daily Music News Feed // 29.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/f6d6d472-246d-45e4-a46a-acbf005e4498/image.jpg?t=1611899089&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/f6d6d472-246d-45e4-a46a-acbf005e4498/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611899104"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-29-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/f6d6d472-246d-45e4-a46a-acbf005e4498/image.jpg?t=1611899089&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">f6d6d472-246d-45e4-a46a-acbf005e4498</guid>
+            <omny:clipId>f6d6d472-246d-45e4-a46a-acbf005e4498</omny:clipId>
+            <pubDate>Fri, 29 Jan 2021 05:45:04 +0000</pubDate>
+            <itunes:duration>97</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_29_01.mp3"
+                    length="1587772" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-29-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 27.01</title>
+            <itunes:title>Daily Music News Feed // 27.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3bf964c3-1b5a-4066-b828-acbd005f4837/image.jpg?t=1611726458&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3bf964c3-1b5a-4066-b828-acbd005f4837/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611726468"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-27-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/3bf964c3-1b5a-4066-b828-acbd005f4837/image.jpg?t=1611726458&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">3bf964c3-1b5a-4066-b828-acbd005f4837</guid>
+            <omny:clipId>3bf964c3-1b5a-4066-b828-acbd005f4837</omny:clipId>
+            <pubDate>Wed, 27 Jan 2021 05:47:48 +0000</pubDate>
+            <itunes:duration>114</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_27_01.mp3"
+                    length="1858192" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-27-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 26.01</title>
+            <itunes:title>Daily Music News Feed // 26.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/4fa96a90-5e4a-4db9-a3c0-acbd005f0497/image.jpg?t=1611726403&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/4fa96a90-5e4a-4db9-a3c0-acbd005f0497/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611726413"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-26-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/4fa96a90-5e4a-4db9-a3c0-acbd005f0497/image.jpg?t=1611726403&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">4fa96a90-5e4a-4db9-a3c0-acbd005f0497</guid>
+            <omny:clipId>4fa96a90-5e4a-4db9-a3c0-acbd005f0497</omny:clipId>
+            <pubDate>Wed, 27 Jan 2021 05:46:53 +0000</pubDate>
+            <itunes:duration>109</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_26_01.mp3"
+                    length="1787975" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-26-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 22.01</title>
+            <itunes:title>Daily Music News Feed // 22.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/309d995c-2f8c-43c9-bf6e-acbc000e097a/image.jpg?t=1611622324&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/309d995c-2f8c-43c9-bf6e-acbc000e097a/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611622334"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-22-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/309d995c-2f8c-43c9-bf6e-acbc000e097a/image.jpg?t=1611622324&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">309d995c-2f8c-43c9-bf6e-acbc000e097a</guid>
+            <omny:clipId>309d995c-2f8c-43c9-bf6e-acbc000e097a</omny:clipId>
+            <pubDate>Tue, 26 Jan 2021 00:52:14 +0000</pubDate>
+            <itunes:duration>107</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_22_01.mp3"
+                    length="1744089" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-22-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 25.01</title>
+            <itunes:title>Daily Music News Feed // 25.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/0337fd60-4618-4693-8719-acbc000e085e/image.jpg?t=1611622323&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/0337fd60-4618-4693-8719-acbc000e085e/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611622331"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-25-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/0337fd60-4618-4693-8719-acbc000e085e/image.jpg?t=1611622323&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">0337fd60-4618-4693-8719-acbc000e085e</guid>
+            <omny:clipId>0337fd60-4618-4693-8719-acbc000e085e</omny:clipId>
+            <pubDate>Tue, 26 Jan 2021 00:52:11 +0000</pubDate>
+            <itunes:duration>85</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_25_01.mp3"
+                    length="1391749" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-25-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 20.01</title>
+            <itunes:title>Daily Music News Feed // 20.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/e17b7cc8-b069-4663-8c5c-acb6003f67e1/image.jpg?t=1611114696&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/e17b7cc8-b069-4663-8c5c-acb6003f67e1/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611114710"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-20-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/e17b7cc8-b069-4663-8c5c-acb6003f67e1/image.jpg?t=1611114696&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">e17b7cc8-b069-4663-8c5c-acb6003f67e1</guid>
+            <omny:clipId>e17b7cc8-b069-4663-8c5c-acb6003f67e1</omny:clipId>
+            <pubDate>Wed, 20 Jan 2021 03:51:00 +0000</pubDate>
+            <itunes:duration>117</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_20_01.mp3"
+                    length="1918378" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-20-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 19.01</title>
+            <itunes:title>Daily Music News Feed // 19.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/6608688c-724d-4d94-848a-acb6003f20b8/image.jpg?t=1611114634&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/6608688c-724d-4d94-848a-acb6003f20b8/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611114646"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-19-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/6608688c-724d-4d94-848a-acb6003f20b8/image.jpg?t=1611114634&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">6608688c-724d-4d94-848a-acb6003f20b8</guid>
+            <omny:clipId>6608688c-724d-4d94-848a-acb6003f20b8</omny:clipId>
+            <pubDate>Wed, 20 Jan 2021 03:50:00 +0000</pubDate>
+            <itunes:duration>148</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_19_01.mp3"
+                    length="2409898" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-19-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 18.01</title>
+            <itunes:title>Daily Music News Feed // 18.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/305cf80f-cf6c-42e8-bfaf-acb6003eb67e/image.jpg?t=1611114578&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/305cf80f-cf6c-42e8-bfaf-acb6003eb67e/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611114595"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-18-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/305cf80f-cf6c-42e8-bfaf-acb6003eb67e/image.jpg?t=1611114578&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">305cf80f-cf6c-42e8-bfaf-acb6003eb67e</guid>
+            <omny:clipId>305cf80f-cf6c-42e8-bfaf-acb6003eb67e</omny:clipId>
+            <pubDate>Wed, 20 Jan 2021 03:49:00 +0000</pubDate>
+            <itunes:duration>153</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_18_01.mp3"
+                    length="2480115" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-18-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 15.01</title>
+            <itunes:title>Daily Music News Feed // 15.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/015789ea-5130-4a8c-9b02-acb6003e5df4/image.jpg?t=1611114471&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/015789ea-5130-4a8c-9b02-acb6003e5df4/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611114484"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-15-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/015789ea-5130-4a8c-9b02-acb6003e5df4/image.jpg?t=1611114471&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">015789ea-5130-4a8c-9b02-acb6003e5df4</guid>
+            <omny:clipId>015789ea-5130-4a8c-9b02-acb6003e5df4</omny:clipId>
+            <pubDate>Wed, 20 Jan 2021 03:48:00 +0000</pubDate>
+            <itunes:duration>118</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_15_01.mp3"
+                    length="1931335" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-15-01</link>
+        </item>
+        <item>
+            <title>Daily Music News Feed // 14.01</title>
+            <itunes:title>Daily Music News Feed // 14.01</itunes:title>
+            <description>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </description>
+            <content:encoded>
+                <![CDATA[<p>Keeping you up to date with all of the music news from the past 24!</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+            <itunes:summary>Keeping you up to date with all of the music news from the past 24!
+
+                See omnystudio.com/listener for privacy information.
+            </itunes:summary>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:author>rova | The Edge</itunes:author>
+            <itunes:image
+                    href="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/305d9b95-bb18-412f-b6e1-acb6003cd3bb/image.jpg?t=1611114373&amp;size=Large"/>
+            <media:content
+                    url="https://traffic.omny.fm/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/305d9b95-bb18-412f-b6e1-acb6003cd3bb/audio.mp3?utm_source=Podcast&amp;in_playlist=611e50ab-e6b2-4fbd-a7fe-a9a60189a6e2&amp;t=1611114384"
+                    type="audio/mpeg">
+                <media:player url="https://omny.fm/shows/the-edge-30/daily-music-news-feed-14-01/embed"/>
+            </media:content>
+            <media:content
+                    url="https://www.omnycontent.com/d/clips/d5d8b1d2-6c31-48c0-8625-a959004fd8f1/f843fc41-24f5-4f00-be76-a9a60189a6e2/305d9b95-bb18-412f-b6e1-acb6003cd3bb/image.jpg?t=1611114373&amp;size=Large"
+                    type="image/jpeg"/>
+            <guid isPermaLink="false">305d9b95-bb18-412f-b6e1-acb6003cd3bb</guid>
+            <omny:clipId>305d9b95-bb18-412f-b6e1-acb6003cd3bb</omny:clipId>
+            <pubDate>Wed, 20 Jan 2021 03:46:00 +0000</pubDate>
+            <itunes:duration>111</itunes:duration>
+            <enclosure
+                    url="https://archive.org/download/amy-shark-joins-the-show/Daily_Music_News_Feed_14_01.mp3"
+                    length="1821829" type="audio/mpeg"/>
+            <link>https://omny.fm/shows/the-edge-30/daily-music-news-feed-14-01</link>
+        </item>
+    </channel>
+</rss>

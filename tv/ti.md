@@ -130,3 +130,6 @@ title: Treasure Island & Celebrity Treasure Island New Zealand
 1. [Episode 16](https://cdn.etv.org.nz/etv/celebrity_treasure_i_tv2_20231023_1930_1500k.mp4)
 5. [Episode 17](https://cdn.etv.org.nz/etv/celebrity_treasure_i_tv2_20231024_1930_1500k.mp4)
 6. [Episode 18](https://cdn.etv.org.nz/etv/celebrity_treasure_i_tv2_20231025_1930_1500k.mp4) (final)
+
+#### CTI Season 8 (2024)
+1. [Episode 1](https://cdn.etv.org.nz/etv/celebrity_treasure_i_tv2_20240909_1930_1500k.mp4)
